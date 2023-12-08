@@ -25,7 +25,7 @@
             {
                 "tab2": {
                     "layout": 3,
-                    "buttontext": "Shop",
+                    "buttontext": "Shop info",
                     "title1": "<TextStyle.Orange>NiceToKnow</>",
                     "title2": "<TextStyle.Orange>Tame Missions</>",
                     "title3": "<TextStyle.Orange>Kill Missions</>",
