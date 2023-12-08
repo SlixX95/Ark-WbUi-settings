@@ -16,7 +16,7 @@
             {
                 "tab1": {
                     "layout": 1,
-                    "buttontext": "<TextStyle.Green>Welcome</>",
+                    "buttontext": "Welcome",
                     "title1": "<TextStyle.Red>Welcome to our RagTag.Rocks 2Man PVP Server</>",
                     "text1": "",
                     "imageurl": "https://gist.github.com/assets/149606126/d6a8487e-2406-4e79-b350-bfd164cbd63a"
@@ -25,10 +25,10 @@
             {
                 "tab2": {
                     "layout": 3,
-                    "buttontext": "<TextStyle.Orange>Shop</>",
-                    "title1": "NiceToKnow",
-                    "title2": "Tame Missions",
-                    "title3": "Kill Missions",
+                    "buttontext": "Shop",
+                    "title1": "<TextStyle.Orange>NiceToKnow</>",
+                    "title2": "<TextStyle.Orange>Tame Missions</>",
+                    "title3": "<TextStyle.Orange>Kill Missions</>",
                     "text1": "You find the <TextStyle.Green>Shop</> related stuff in your <TextStyle.Green>Inventory</> in the <TextStyle.Green>bottom left corner</>",
                     "text2": "Informations comming soon",
                     "text3": "Informations comming soon",
@@ -38,8 +38,8 @@
 			{
                 "tab3": {
                     "layout": 2,
-                    "buttontext": "<TextStyle.Yellow>Server settings</>",
-                    "title1": "current Settings",
+                    "buttontext": "Server settings",
+                    "title1": "<TextStyle.Orange>current Settings</>",
                     "title2": "<TextStyle.Orange>Server restart Info</>",
                     "text1": "- 10x EXP\n- 10x Farming\n- 10x Taming (5x with 2x eat)\n- 40x Maturation | 20x Hatching\n- 15x Item stack | RawPrimeMeat up to 5\n- 25x Weight for Player/Dino\n- 2 man Tribe + 1 Alliance\n- Maximum wild dino level 150\n- Maximum player level 105\n- Enough points for all Engrams\n- No movement speed leveling (except swim speed that scales 2x with oxygen)\n- Cave building allowed (6x structure damage in caves)\n- Turrets in range place limit 150\n- 30 sec PVP respawn cooldown (not stacking) for YEET actions\n- Force wild dino respawn on server restart is enabled (cause laggs for few minutes after restart)",
                     "text2": "Server restart <TextStyle.Green>every day 6 AM</>\n\n- after restart the server might be laggy for 5 min, caused by forced wild dino respawn!",
