@@ -25,7 +25,7 @@
             {
                 "tab2": {
                     "layout": 2,
-                    "buttontext": "<TextStyle.Green>Server Settings</>",
+                    "buttontext": "<TextStyle.Yellow>Server Settings</>",
                     "title1": "current Settings",
                     "title2": "Server restart",
                     "text1": "This text goes into the left box",
@@ -36,7 +36,7 @@
             {
                 "tab3": {
                     "layout": 3,
-                    "buttontext": "<TextStyle.Green>about Shop</>",
+                    "buttontext": "<TextStyle.Orange>about Shop</>",
                     "title1": "Left title",
                     "title2": "Top right title",
                     "title3": "Bottom left title",
@@ -45,21 +45,7 @@
                     "text3": "This text goes into the bottom right box",
                     "imageurl": "https://gist.github.com/assets/149606126/d6a8487e-2406-4e79-b350-bfd164cbd63a"
                 }
-            },
-            {
-                "tab4": {
-                    "layout": 4,
-                    "buttontext": "<TextStyle.Green>Welcome</>",
-                    "title1": "Top left title",
-                    "title2": "<TextStyle.Green>Top right title</>",
-                    "title3": "<TextStyle.Blue>bottom left title</>",
-                    "title4": "<TextStyle.Yellow>bottom right title</>",
-                    "text1": "<TextStyle.Orange>This text goes into the top left box</>",
-                    "text2": "<TextStyle.Violet>This text goes into the top right box</>",
-                    "text3": "<TextStyle.Red>This text goes into the bottom left box</>",
-                    "text4": "<TextStyle.White>This text goes into the bottom right box</>",
-                    "imageurl": "https://gist.github.com/assets/149606126/d6a8487e-2406-4e79-b350-bfd164cbd63a"
-                }
+            }
             }
         ],
         "links": [
