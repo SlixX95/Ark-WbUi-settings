@@ -18,7 +18,7 @@
                     "layout": 1,
                     "buttontext": "<TextStyle.Green>Welcome</>",
                     "title1": "Welcome to RagTag.Rocks 2Man PVP Server",
-                    "text1": "TestTest one two one two",
+                    "text1": "Informations comming soon",
                     "imageurl": "https://gist.github.com/assets/149606126/d6a8487e-2406-4e79-b350-bfd164cbd63a"
                 }
             },
@@ -36,13 +36,13 @@
             {
                 "tab3": {
                     "layout": 3,
-                    "buttontext": "<TextStyle.Orange>about Shop</>",
-                    "title1": "Left title",
-                    "title2": "Top right title",
-                    "title3": "Bottom left title",
-                    "text1": "This text goes into the left box",
-                    "text2": "This text goes into the top right box",
-                    "text3": "This text goes into the bottom right box",
+                    "buttontext": "<TextStyle.Orange>Shop</>",
+                    "title1": "NiceToKnow",
+                    "title2": "Tame Missions",
+                    "title3": "Kill Missions",
+                    "text1": "- You find the <TextStyle.Green>Shop</> related stuff in your Inventory in the <TextStyle.Green>bottom left corner</>",
+                    "text2": "Informations comming soon",
+                    "text3": "Informations comming soon",
                     "imageurl": "https://gist.github.com/assets/149606126/d6a8487e-2406-4e79-b350-bfd164cbd63a"
                 }
             }
