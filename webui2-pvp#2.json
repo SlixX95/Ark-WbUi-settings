@@ -29,7 +29,7 @@
                     "title1": "<TextStyle.Orange>NiceToKnow</>",
                     "title2": "<TextStyle.Orange>Tame Missions</>",
                     "title3": "<TextStyle.Orange>Kill Missions</>",
-                    "text1": "You find the <RichColor Color=\"0,1,0,1\">Shop</> related stuff in your <RichColor Color=\"0,1,0,1\">Inventory</> in the <RichColor Color=\"0,1,0,1\">bottom left corner</>\n\n- <RichColor Color=\"0,1,0,1\">Starter kits</> available\n\n- You gain <RichColor Color=\"0,1,0,1\">100 Gold every 15 min</>",
+                    "text1": "You find the <RichColor Color=\"0,1,0,1\">Shop</> related stuff in your <RichColor Color=\"0,1,0,1\">Inventory</> in the <RichColor Color=\"0,1,0,1\">bottom left corner</>\n\n- <RichColor Color=\"0,1,0,1\">Starter kits</> available\n- You gain <RichColor Color=\"0,1,0,1\">100 Gold every 15 min</>\n\n- We add more stuff from time to time",
                     "text2": "Informations coming soon",
                     "text3": "Informations coming soon",
                     "imageurl": "https://gist.github.com/assets/149606126/d6a8487e-2406-4e79-b350-bfd164cbd63a"
@@ -40,10 +40,10 @@
                     "layout": 3,
                     "buttontext": "Server info",
                     "title1": "<TextStyle.Orange>current Settings</>",
-                    "title2": "<TextStyle.Red>Rules</>",
+                    "title2": "<TextStyle.Orange>NiceToKnow</>",
 					"title3": "<TextStyle.Orange>Server restart Info</>",
-                    "text1": "- 10x EXP\n- 10x Farming\n- 10x Taming (5x with 2x eat)\n- 40x Maturation | 20x Hatching\n- 15x Item stack | RawPrimeMeat up to 5\n- 25x Weight for Player/Dino\n- 2 man Tribe + 1 Alliance\n- Maximum wild dino level 150\n- Maximum player level 105\n- Enough points for all Engrams\n- No movement speed leveling (except swim speed that scales 2x with oxygen)\n- Cave building allowed (6x structure damage in caves)\n- Turrets in range place limit 150\n- 30 sec PVP respawn cooldown (not stacking) for YEET actions\n- Force wild dino respawn on server restart is enabled (cause laggs for few minutes after restart)",                   
-					"text2": "SOON",
+                    "text1": "- 10x EXP\n- 10x Farming\n- 10x Taming (5x with 2x eat)\n- 40x Maturation | 20x Hatching\n- 15x Item stack | RawPrimeMeat up to 5\n- 25x Weight for Player/Dino\n- 2 man Tribe + 1 Alliance\n- Maximum wild dino level 150\n- Maximum player level 105\n- Enough points for all Engrams\n- No movement speed leveling (except swim speed that scales 2x with oxygen)\n- Cave building allowed (6x structure damage in caves)\n- Turrets in range place limit 150\n- 30 sec PVP respawn cooldown (not stacking) for YEET actions\n- Force wild dino respawn on server restart is enabled",                   
+					"text2": "current known bugs\n- If you lag/rubber band after joining -> die or travel between beds to fix!",
                     "text3": "Server restart <RichColor Color=\"0,1,0,1\">every day 6 AM</>\n\n- after restart the server might be laggy for 5 min, caused by forced wild dino respawn!",
 					"imageurl": "https://gist.github.com/assets/149606126/d6a8487e-2406-4e79-b350-bfd164cbd63a"
                 }
