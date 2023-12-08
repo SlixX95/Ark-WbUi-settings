@@ -50,7 +50,7 @@
         "links": [
             {
                 "link1": {
-                    "text": "Link to our Discord",
+                    "text": "<TextStyle.Blue>Link to our Discord</>",
                     "url": "https://discord.gg/TZPbvsVm2U"
                 }
             }
