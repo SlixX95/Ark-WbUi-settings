@@ -29,7 +29,7 @@
                     "title1": "<TextStyle.Orange>NiceToKnow</>",
                     "title2": "<TextStyle.Orange>Tame Missions</>",
                     "title3": "<TextStyle.Orange>Kill Missions</>",
-                    "text1": "You find the <TextStyle.Green>Shop</> related stuff in your <TextStyle.Green>Inventory</> in the <TextStyle.Green>bottom left corner</>",
+                    "text1": "You find the <RichColor Color=\"0,1,0,1\">Shop</> related stuff in your <RichColor Color=\"0,1,0,1\">Inventory</> in the <RichColor Color=\"0,1,0,1\">bottom left corner</>",
                     "text2": "Informations comming soon",
                     "text3": "Informations comming soon",
                     "imageurl": "https://gist.github.com/assets/149606126/d6a8487e-2406-4e79-b350-bfd164cbd63a"
@@ -50,7 +50,7 @@
         "links": [
             {
                 "link1": {
-                    "text": "<TextStyle.Blue>Link to our Discord</>",
+                    "text": "<TextStyle.LightBlue>Link to our Discord</>",
                     "url": "https://discord.gg/TZPbvsVm2U"
                 }
             }
