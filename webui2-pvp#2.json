@@ -2,7 +2,7 @@
     "WBUI2": {
         "settings": {
             "OpenButton": 2,
-            "HideIcon": true,
+            "HideIcon": false,
             "HideIconAfter": 60,
             "IconURL": "https://i.imgur.com/jXU7Nhg.png",
             "DisableIconText": false,
@@ -55,6 +55,13 @@
                     "text": "<TextStyle.Green>Link to our Discord</>",
                     "url": "https://discord.gg/TZPbvsVm2U"
                 }
+				      },
+      {
+        "link2": {
+          "text": "<TextStyle.Red>Youtube</>",
+          "url": "https://www.youtube.com/watch?v=Tph9pL1vnbI"
+        }
+				
             }
         ]
     }
