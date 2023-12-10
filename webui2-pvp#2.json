@@ -47,7 +47,19 @@
                     "text3": "Server restart <RichColor Color=\"0,1,0,1\">every day 6 AM</>\n\n- After restart the server might be laggy for 5 min, caused by forced wild dino respawn!",
 					"imageurl": "https://i.imgur.com/53bXqEo.png"
                 }
+				            },
+            {
+                "tab4": {
+                    "layout": 2,
+                    "buttontext": "Bug/Fix",
+                    "title1": "<TextStyle.Orange>Bugs</>",
+                    "title2": "<TextStyle.Orange>Poossible fixes</>",
+                    "text1": "<RichColor Color=\"0,1,0,1\">planned</>",
+                    "text2": "<RichColor Color=\"0,1,0,1\">planned</>",
+                    "imageurl": "https://i.imgur.com/53bXqEo.png"
+                }
             }
+
         ],
         "links": [
             {

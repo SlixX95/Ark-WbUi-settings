@@ -17,7 +17,7 @@
                 "tab1": {
                     "layout": 1,
                     "buttontext": "Welcome",
-                    "title1": "<TextStyle.Green>Welcome to our RagTag.Rocks 4Man Pv P Server</>",
+                    "title1": "<TextStyle.Green>Welcome to our RagTag.Rocks 4Man PvP Server</>",
                     "text1": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<TextStyle.Yellow>If you notice a problem, something is out of balance or if you have some wishes, please let us know!</>",
                     "imageurl": "https://i.imgur.com/8kBADT8.png"
                 }
@@ -28,7 +28,7 @@
                     "buttontext": "RoadMap",
                     "title1": "<TextStyle.Orange>Work in progress</>",
                     "title2": "<TextStyle.Orange>Future plans</>",             
-                    "text1": "You find the <RichColor Color=\"0,1,0,1\">Shop</> related stuff in your <RichColor Color=\"0,1,0,1\">Inventory</> in the <RichColor Color=\"0,1,0,1\">bottom left corner</>\n\n- <RichColor Color=\"0,1,0,1\">Starter kits</> available\n- You gain <RichColor Color=\"0,1,0,1\">100 Gold every 15 min</>\n\n- We add more stuff from time to time\n\n- If you wish something special or have some ideas, please let us know!",
+                    "text1": "<RichColor Color=\"0,1,0,1\">planned</>",
                     "text2": "<RichColor Color=\"0,1,0,1\">planned</>",
                     "imageurl": "https://i.imgur.com/53bXqEo.png"
                 }
@@ -45,6 +45,17 @@
                     "text3": "Server restart <RichColor Color=\"0,1,0,1\">every day 6 AM</>\n\n- After restart the server might be laggy for 5 min, caused by forced wild dino respawn!",
 					"imageurl": "https://i.imgur.com/53bXqEo.png"
                 }
+				            },
+            {
+                "tab4": {
+                    "layout": 2,
+                    "buttontext": "Bug/Fix",
+                    "title1": "<TextStyle.Orange>Bugs</>",
+                    "title2": "<TextStyle.Orange>Poossible fixes</>",
+                    "text1": "<RichColor Color=\"0,1,0,1\">planned</>",
+                    "text2": "<RichColor Color=\"0,1,0,1\">planned</>",
+                    "imageurl": "https://i.imgur.com/53bXqEo.png"
+                }            
             }
         ],
         "links": [
