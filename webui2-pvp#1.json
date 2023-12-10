@@ -52,8 +52,8 @@
                     "buttontext": "Bug/Fix",
                     "title1": "<TextStyle.Orange>Bugs</>",
                     "title2": "<TextStyle.Orange>Poossible fixes</>",
-                    "text1": "- lagging/rubberband after join",
-                    "text2": "-> you have to die or travel between beds ",
+                    "text1": "#1 - If you notice lagging/rubberband after join\n\n#2 - Bug",
+                    "text2": "#1 - You have to die or travel between beds\n\n#2 - Fix",
                     "imageurl": "https://i.imgur.com/53bXqEo.png"
                 }            
             }
