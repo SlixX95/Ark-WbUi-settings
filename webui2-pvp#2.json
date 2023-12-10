@@ -34,6 +34,17 @@
                     "text3": "<RichColor Color=\"0,1,0,1\">planned</>",
                     "imageurl": "https://i.imgur.com/53bXqEo.png"
                 }
+				            },
+            {
+                "tab2": {
+                    "layout": 2,
+                    "buttontext": "RoadMap",
+                    "title1": "<TextStyle.Orange>Work in progress</>",
+                    "title2": "<TextStyle.Orange>Future plans</>",             
+                    "text1": "<RichColor Color=\"0,1,0,1\">planned</>",
+                    "text2": "<RichColor Color=\"0,1,0,1\">planned</>",
+                    "imageurl": "https://i.imgur.com/53bXqEo.png"
+                }
             },
 			{
                 "tab3": {
