@@ -36,7 +36,7 @@
 			{
                 "tab3": {
                     "layout": 3,
-                    "buttontext": "Server infoo",
+                    "buttontext": "Server info",
                     "title1": "<TextStyle.Orange>Current settings</>",
                     "title2": "<TextStyle.Orange>Nice to know</>",
 					"title3": "<TextStyle.Orange>Server restart info</>",
