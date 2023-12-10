@@ -17,21 +17,19 @@
                 "tab1": {
                     "layout": 1,
                     "buttontext": "Welcome",
-                    "title1": "<TextStyle.Green>Welcome to our RagTag.Rocks 4Man PVP Server</>",
+                    "title1": "<TextStyle.Green>Welcome to our RagTag.Rocks 4Man PvP Server</>",
                     "text1": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<TextStyle.Yellow>If you notice a problem, something is out of balance or if you have some wishes, please let us know!</>",
                     "imageurl": "https://i.imgur.com/8kBADT8.png"
                 }
             },
             {
                 "tab2": {
-                    "layout": 3,
+                    "layout": 2,
                     "buttontext": "RoadMap",
-                    "title1": "<TextStyle.Orange>NiceToKnow</>",
-                    "title2": "<TextStyle.Orange>Tame Missions</>",
-                    "title3": "<TextStyle.Orange>Kill Missions</>",
+                    "title1": "<TextStyle.Orange>Work in progress</>",
+                    "title2": "<TextStyle.Orange>Future plans</>",             
                     "text1": "You find the <RichColor Color=\"0,1,0,1\">Shop</> related stuff in your <RichColor Color=\"0,1,0,1\">Inventory</> in the <RichColor Color=\"0,1,0,1\">bottom left corner</>\n\n- <RichColor Color=\"0,1,0,1\">Starter kits</> available\n- You gain <RichColor Color=\"0,1,0,1\">100 Gold every 15 min</>\n\n- We add more stuff from time to time\n\n- If you wish something special or have some ideas, please let us know!",
                     "text2": "<RichColor Color=\"0,1,0,1\">planned</>",
-                    "text3": "<RichColor Color=\"0,1,0,1\">planned</>",
                     "imageurl": "https://i.imgur.com/53bXqEo.png"
                 }
             },
@@ -39,12 +37,12 @@
                 "tab3": {
                     "layout": 3,
                     "buttontext": "Server info",
-                    "title1": "<TextStyle.Orange>current Settings</>",
-                    "title2": "<TextStyle.Orange>NiceToKnow</>",
+                    "title1": "<TextStyle.Orange>Current settings</>",
+                    "title2": "<TextStyle.Orange>Nice to know</>",
 					"title3": "<TextStyle.Orange>Server restart Info</>",
                     "text1": "- 10x EXP\n- 10x Farming\n- 10x Taming (5x with 2x eat)\n- 40x Maturation | 20x Hatching\n- 15x Item stack | RawPrimeMeat up to 5\n- 25x Weight for Player/Dino\n- 2 man Tribe + 1 Alliance\n- Maximum wild dino level 150\n- Maximum player level 105\n- Enough points for all Engrams\n- No movement speed leveling (swim speed scales 2x with oxygen)\n- Cave building allowed (6x structure damage in caves)\n- Turrets in range place limit 150\n- 30 sec PVP respawn cooldown (not stacking) for YEET actions\n- Force wild dino respawn on server restart is enabled",                   
 					"text2": "current known bugs\n- If you lag/rubber band after joining -> die or travel between beds to fix!",
-                    "text3": "Server restart <RichColor Color=\"0,1,0,1\">every day 6 AM</>\n\n- after restart the server might be laggy for 5 min, caused by forced wild dino respawn!",
+                    "text3": "Server restart <RichColor Color=\"0,1,0,1\">every day 6 AM</>\n\n- After restart the server might be laggy for 5 min, caused by forced wild dino respawn!",
 					"imageurl": "https://i.imgur.com/53bXqEo.png"
                 }
             }
