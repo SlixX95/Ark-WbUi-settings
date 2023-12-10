@@ -11,7 +11,7 @@
             "OpenOnStart": true,
             "OpenOnStartOnlyNewPlayers": true,
             "UpdateInterval": 12
-        },
+				},
         "tabs": [
             {
                 "tab1": {
@@ -20,8 +20,8 @@
                     "title1": "<TextStyle.Green>Welcome to our RagTag.Rocks 4Man PvP Server</>",
                     "text1": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<TextStyle.Yellow>If you notice a problem, something is out of balance or if you have some wishes, please let us know!</>",
                     "imageurl": "https://i.imgur.com/8kBADT8.png"
-                }
-            },
+            }
+				},
             {
                 "tab2": {
                     "layout": 2,
@@ -31,8 +31,8 @@
                     "text1": "- We are currently working on the fine-tuning for pvp\n- We create items/kits for new players and integrate them into an ingame store system\n- We are working on a server trailer and server advertising",
                     "text2": "- <RichColor Color=\"1,0,0,1\">Crossmaps</> in the PvP area (starting with Scortch Earth)\n- If wished also in the PvE area\n- <RichColor Color=\"1,0,0,1\">Our focus</> is on 2 Man & 4 Man PvP Server\n- A fair INGAME <RichColor Color=\"1,0,0,1\">store system</> to better integrate new or <RichColor Color=\"1,0,0,1\">wiped players</> into the game.\n- <RichColor Color=\"1,0,0,1\">Events</> (if there are enough players)\n- PvP Season with videos for the community\n- Trailer videos of the server maps\n- Discord development\n- Create your own community mod",
                     "imageurl": "https://i.imgur.com/53bXqEo.png"
-                }
-            },
+            }
+				},
 			{
                 "tab3": {
                     "layout": 3,
@@ -44,8 +44,8 @@
 					"text2": "Check out our other servers:\n\n<RichColor Color=\"1,0,0,1\">PVP</>\n- RTR [EU] -PVP- 10x | 2Man | monthly wiped | >2<\n\n<RichColor Color=\"0,1,0,1\">PVE</>\n- RTR [EU] -PVE- x5x | Shop | NoWipe | >3<",
                     "text3": "Server restart <RichColor Color=\"0,1,0,1\">every day 6 AM</>\n\n- After restart the server might be laggy for 5 min, caused by forced wild dino respawn!",
 					"imageurl": "https://i.imgur.com/53bXqEo.png"
-                }
-				            },
+            }
+				},
             {
                 "tab4": {
                     "layout": 2,
@@ -55,22 +55,27 @@
                     "text1": "#1 - If you notice lagging/rubberband after join\n\n#2 - Bug",
                     "text2": "#1 - You have to die or travel between beds\n\n#2 - Fix",
                     "imageurl": "https://i.imgur.com/53bXqEo.png"
-                }            
+            }            
             }
-        ],
+				],
         "links": [
             {
                 "link1": {
+                    "text": "<TextStyle.Red>SOON</>",
+                    "url": "https://www.youtube.com"
+            }
+				},
+			{
+				"link2": {
                     "text": "<TextStyle.Green>Link to our Discord</>",
                     "url": "https://discord.gg/TZPbvsVm2U"
-                }
-				      },
-      {
-        "link2": {
-          "text": "<TextStyle.Red>Youtube</>",
-          "url": "https://www.youtube.com/watch?v=Tph9pL1vnbI"
-        }
-				
+			}
+				},
+			{
+				"link3": {
+					"text": "<TextStyle.Red>Youtube</>",
+					"url": "https://www.youtube.com/watch?v=Tph9pL1vnbI"
+			}				
             }
         ]
     }
