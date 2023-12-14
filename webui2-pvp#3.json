@@ -1,0 +1,97 @@
+{
+    "WBUI2": {
+        "settings": {
+            "OpenButton": 2,
+            "HideIcon": false,
+            "HideIconAfter": 60,
+            "IconURL": "https://i.imgur.com/KhBBftv.png",
+            "DisableIconText": true,
+            "IconPosition": 3,
+            "IconTextColor": 7,
+            "OpenOnStart": true,
+            "OpenOnStartOnlyNewPlayers": true,
+            "UpdateInterval": 1
+				},
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 1,
+                    "buttontext": "Welcome",
+                    "title1": "<TextStyle.Green>Welcome to our RagTag.Rocks 2Man PvP Server</>",
+                    "text1": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<TextStyle.Yellow>If you notice a problem, something is out of balance or if you have some wishes, please let us know!</>",
+                    "imageurl": "https://i.imgur.com/8kBADT8.png"
+            }
+				},
+            {
+                "tab2": {
+                    "layout": 3,
+                    "buttontext": "Shop info",
+                    "title1": "<TextStyle.Orange>Nice to know</>",
+                    "title2": "<TextStyle.Orange>Tame Missions</>",
+                    "title3": "<TextStyle.Orange>Kill Missions</>",
+                    "text1": "You find the <RichColor Color=\"0,1,0,1\">Shop</> related stuff in your <RichColor Color=\"0,1,0,1\">Inventory</> in the <RichColor Color=\"0,1,0,1\">bottom left corner</>\n\n- <RichColor Color=\"0,1,0,1\">Starter kits</> available\n- You gain <RichColor Color=\"0,1,0,1\">100 Gold every 15 min</>\n\n- We add more stuff from time to time\n\n- If you wish something special or have some ideas, please let us know!",
+                    "text2": "- <RichColor Color=\"0,1,0,1\">Planned</>",
+                    "text3": "- <RichColor Color=\"0,1,0,1\">Currently there is one Quest available</>",
+                    "imageurl": "https://i.imgur.com/53bXqEo.png"
+            }
+				},
+            {
+                "tab3": {
+                    "layout": 2,
+                    "buttontext": "RoadMap",
+                    "title1": "<TextStyle.Orange>Work in progress</>",
+                    "title2": "<TextStyle.Orange>Future plans</>",             
+                    "text1": "- We are currently working on the fine-tuning for pvp\n- We create items/kits for new players and integrate them into an ingame store system\n- We are working on a server trailer and server advertising",
+                    "text2": "- <RichColor Color=\"1,0,0,1\">Crossmaps</> in the PvP area (starting with Scortch Earth)\n- If wished also in the PvE area\n- <RichColor Color=\"1,0,0,1\">Our focus</> is on 2 Man & 4 Man PvP Server\n- A fair INGAME <RichColor Color=\"1,0,0,1\">store system</> to better integrate new or <RichColor Color=\"1,0,0,1\">wiped players</> into the game.\n- <RichColor Color=\"1,0,0,1\">Events</> (if there are enough players)\n- PvP Season with videos for the community\n- Trailer videos of the server maps\n- Discord development\n- Create your own community mod",
+                    "imageurl": "https://i.imgur.com/53bXqEo.png"
+            }
+				},
+			{
+                "tab4": {
+                    "layout": 3,
+                    "buttontext": "Server info",
+                    "title1": "<TextStyle.Orange>Current settings</>",
+                    "title2": "<TextStyle.Orange>Nice to know</>",
+					"title3": "<TextStyle.Orange>Server restart info</>",
+                    "text1": "- <TextStyle.Yellow>Wipe on first every month</>\n\n- 10x EXP\n- 10x Farming\n- 10x Taming (5x with 2x eat)\n- 40x Maturation | 20x Hatching\n- 15x Item stack | RawPrimeMeat up to 5\n- 25x Weight for Player/Dino\n- 2 man Tribe + 1 Alliance\n- Maximum wild dino level 150\n- Maximum player level 105\n- Enough points for all Engrams\n- No movement speed leveling (swim speed scales 2x with oxygen)\n- Cave building allowed (6x structure damage in caves)\n- Turrets in range place limit 150\n- 30 sec PVP respawn cooldown (not stacking) for YEET actions\n- Force wild dino respawn on server restart is enabled",                   
+					"text2": "Check out our other servers:\n\n<RichColor Color=\"1,0,0,1\">PVP</>\n- RTR [EU] -PVP- x10 | 4Man | Mods | >1<\n\n<RichColor Color=\"0,1,0,1\">PVE</>\n- RTR [EU] -PVE- x5x | Shop | NoWipe | >3<",
+                    "text3": "Server restart <RichColor Color=\"0,1,0,1\">every day 6 AM</>\n\n- After restart the server might be laggy for 5 min, caused by forced wild dino respawn!",
+					"imageurl": "https://i.imgur.com/53bXqEo.png"
+            }
+				},
+            {
+                "tab5": {
+                    "layout": 2,
+                    "buttontext": "Bug/Fix",
+                    "title1": "<TextStyle.Orange>Bugs</>",
+                    "title2": "<TextStyle.Orange>Poossible fixes</>",
+                    "text1": "#1 - If you notice lagging/rubberband after join\n\n#2 - Bug",
+                    "text2": "#1 - You have to die or travel between beds\n\n#2 - Fix",
+                    "imageurl": "https://i.imgur.com/53bXqEo.png"
+            }
+            }
+
+				],
+        "links": [
+            {
+                "link1": {
+                    "text": "<TextStyle.Red>Server Trailer</>",
+                    "url": "https://www.youtube.com/watch?v=jEGueapmDE4"
+            }
+				},
+			{
+				"link2": {
+                    "text": "<TextStyle.Green>Link to our Discord</>",
+                    "url": "https://discord.gg/TZPbvsVm2U"
+			}
+				},
+			{
+				"link3": {
+					"text": "<TextStyle.Red>Youtube</>",
+					"url": "https://www.youtube.com/watch?v=RWqrhH35YWc"
+			}
+				
+            }
+        ]
+    }
+}
