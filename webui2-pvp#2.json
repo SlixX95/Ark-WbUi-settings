@@ -75,7 +75,7 @@
         "links": [
             {
                 "link1": {
-                    "text": "<TextStyle.Red>Trailer</>",
+                    "text": "<TextStyle.Red>Server Trailer</>",
                     "url": "https://www.youtube.com/watch?v=jEGueapmDE4"
             }
 				},
