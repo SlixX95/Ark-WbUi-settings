@@ -90,6 +90,12 @@
 					"text": "<TextStyle.Red>Youtube</>",
 					"url": "https://www.youtube.com/watch?v=RWqrhH35YWc"
 			}
+				},
+			{
+				"link4": {
+					"text": "<TextStyle.Blue>Dododex</>",
+					"url": "https://www.dododex.com/"
+			}
 				
             }
         ]
