@@ -93,7 +93,7 @@
 				},
 			{
 				"link4": {
-					"text": "<TextStyle.Turquoise>Dododex</>",
+					"text": "<RichColor Color=\"0,1,1,1\">Dododex</>",
 					"url": "https://www.dododex.com/"
 			}
 				
