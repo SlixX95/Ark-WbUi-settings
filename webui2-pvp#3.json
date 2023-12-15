@@ -75,19 +75,19 @@
         "links": [
             {
                 "link1": {
-                    "text": "<TextStyle.Red>Server Trailer(PvP)</>",
+                    "text": "<RichColor Color=\"1,0,1,1\">Server Trailer(PvP)</>",
                     "url": "https://www.youtube.com/watch?v=jEGueapmDE4"
             }
 				},
 			{
 				"link2": {
-                    "text": "<TextStyle.Green>Link to our Discord</>",
+                    "text": "<RichColor Color=\"0,1,0,1\">Link to our Discord</>",
                     "url": "https://discord.gg/TZPbvsVm2U"
 			}
 				},
 			{
 				"link3": {
-					"text": "<TextStyle.Red>Youtube</>",
+					"text": "<RichColor Color=\"1,0,0,1\">Youtube</>",
 					"url": "https://www.youtube.com/watch?v=RWqrhH35YWc"
 			}
 				},
