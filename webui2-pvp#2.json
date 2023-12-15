@@ -16,7 +16,7 @@
             {
                 "tab1": {
                     "layout": 1,
-                    "buttontext": "Welcome",
+                    "buttontext": "<RichColor Color=\"0,1,1,1\">Welcome</>",
                     "title1": "<TextStyle.Green>Welcome to our RagTag.Rocks 2Man PvP Server</>",
                     "text1": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<TextStyle.Yellow>If you notice a problem, something is out of balance or if you have some wishes, please let us know!</>",
                     "imageurl": "https://i.imgur.com/8kBADT8.png"
@@ -25,7 +25,7 @@
             {
                 "tab2": {
                     "layout": 3,
-                    "buttontext": "Shop info",
+                    "buttontext": "<RichColor Color=\"0,1,1,1\">Shop info</>",
                     "title1": "<TextStyle.Orange>Nice to know</>",
                     "title2": "<TextStyle.Orange>Tame Missions</>",
                     "title3": "<TextStyle.Orange>Kill Missions</>",
@@ -38,7 +38,7 @@
             {
                 "tab3": {
                     "layout": 2,
-                    "buttontext": "RoadMap",
+                    "buttontext": "<RichColor Color=\"0,1,1,1\">RoadMap</>",
                     "title1": "<TextStyle.Orange>Work in progress</>",
                     "title2": "<TextStyle.Orange>Future plans</>",             
                     "text1": "- We are currently working on the fine-tuning for pvp\n- We create items/kits for new players and integrate them into an ingame store system\n- We are working on a server trailer and server advertising",
@@ -49,7 +49,7 @@
 			{
                 "tab4": {
                     "layout": 3,
-                    "buttontext": "Server info",
+                    "buttontext": "<RichColor Color=\"0,1,1,1\">Server info</>",
                     "title1": "<TextStyle.Orange>Current settings</>",
                     "title2": "<TextStyle.Orange>Nice to know</>",
 					"title3": "<TextStyle.Orange>Server restart info</>",
@@ -62,7 +62,7 @@
             {
                 "tab5": {
                     "layout": 2,
-                    "buttontext": "Bug/Fix",
+                    "buttontext": "<RichColor Color=\"0,1,1,1\">Bug/Fix</>",
                     "title1": "<TextStyle.Orange>Bugs</>",
                     "title2": "<TextStyle.Orange>Poossible fixes</>",
                     "text1": "#1 - If you notice character lagging/rubberband after join\n\n#2 - Flying with Pteranodon feels laggy",
@@ -75,20 +75,26 @@
         "links": [
             {
                 "link1": {
-                    "text": "<TextStyle.Red>Server Trailer</>",
+                    "text": "<RichColor Color=\"1,0,0,1\">Trailer video</>",
                     "url": "https://www.youtube.com/watch?v=jEGueapmDE4"
             }
 				},
 			{
 				"link2": {
-                    "text": "<TextStyle.Green>Link to our Discord</>",
+                    "text": "<RichColor Color=\"0,1,0,1\">Discord</>",
                     "url": "https://discord.gg/TZPbvsVm2U"
 			}
 				},
 			{
 				"link3": {
-					"text": "<TextStyle.Red>Youtube</>",
+					"text": "<RichColor Color=\"1,0,0,1\">Youtube</>",
 					"url": "https://www.youtube.com/watch?v=RWqrhH35YWc"
+			}
+				},
+			{
+				"link4": {
+					"text": "<RichColor Color=\"0,1,1,1\">Dododex</>",
+					"url": "https://www.dododex.com/"
 			}
 				
             }
