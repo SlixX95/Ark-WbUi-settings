@@ -93,6 +93,12 @@
 				},
 			{
 				"link4": {
+					"text": "<RichColor Color=\"1,0.65,0,1\">Vote for our Server here</>",
+					"url": "https://ark-servers.net/server/356359/vote/"
+			}
+				},
+			{
+				"link5": {
 					"text": "<RichColor Color=\"0,1,1,1\">Dododex</>",
 					"url": "https://www.dododex.com/"
 			}
