@@ -18,7 +18,7 @@
                     "layout": 1,
                     "buttontext": "<RichColor Color=\"0,1,1,1\">Welcome</>",
                     "title1": "<TextStyle.Green>Welcome to our RagTag.Rocks 2Man PvP Server</>",
-                    "text1": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<TextStyle.Yellow>If you notice a problem, something is out of balance or if you have some wishes, please let us know!</>",
+                    "text1": "\n<TextStyle.Yellow>Help us grow and Vote for our Server with the button below.</>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<TextStyle.Yellow>If you notice a problem, something is out of balance or if you have some wishes, please let us know!</>",
                     "imageurl": "https://i.imgur.com/8kBADT8.png"
             }
 				},
@@ -29,9 +29,9 @@
                     "title1": "<TextStyle.Orange>Nice to know</>",
                     "title2": "<TextStyle.Orange>Tame Missions</>",
                     "title3": "<TextStyle.Orange>Kill Missions</>",
-                    "text1": "You find the <RichColor Color=\"0,1,0,1\">Shop</> related stuff in your <RichColor Color=\"0,1,0,1\">Inventory</> in the <RichColor Color=\"0,1,0,1\">bottom left corner</>\n\n- <RichColor Color=\"0,1,0,1\">Starter kits</> available\n- You gain <RichColor Color=\"0,1,0,1\">100 Gold every 15 min</>\n<RichColor Color=\"1,0,0,1\">- If you die in PvP you loose 1% of your goldcoins to the enemy player!</>\n\n- We add more stuff from time to time\n\n- If you wish something special or have some ideas, please let us know!",
-                    "text2": "--> <RichColor Color=\"0,1,0,1\">share us your ideas on discord</>",
-                    "text3": "--> <RichColor Color=\"0,1,0,1\">share us your ideas on discord</>",
+                    "text1": "You find the <RichColor Color=\"0,1,0,1\">Shop</> related stuff in your <RichColor Color=\"0,1,0,1\">Inventory</> in the <RichColor Color=\"0,1,0,1\">bottom left corner</>\n\n- <RichColor Color=\"0,1,0,1\">Starter kits</> available\n- You gain <RichColor Color=\"0,1,0,1\">100 Gold every 15 min</>\n\n<RichColor Color=\"1,0,0,1\">- If you die in PvP you loose 1% of your goldcoins to the enemy player!</>\n\n- We add more stuff from time to time\n\n- If you wish something special or have some ideas, please let us know!",
+                    "text2": "-> Check out our <RichColor Color=\"0,1,0,1\">6 new Tame Missions</>\n\n--> <RichColor Color=\"0,1,0,1\">share us your ideas on discord</>",
+                    "text3": "--> <RichColor Color=\"0,1,1,1\">TO BUGGY AT THE MOMENT</>",
                     "imageurl": "https://i.imgur.com/53bXqEo.png"
             }
 				},
@@ -41,7 +41,7 @@
                     "buttontext": "<RichColor Color=\"0,1,1,1\">RoadMap</>",
                     "title1": "<TextStyle.Orange>Work in progress</>",
                     "title2": "<TextStyle.Orange>Future plans</>",             
-                    "text1": "- We are currently working on the fine-tuning for pvp\n- Create items/kits for new players and integrate them into an ingame store system\n- Working on server trailers and advertising",
+                    "text1": "- We are currently working on the fine-tuning for pvp (almost done)\n- Create items/kits for new players and integrate them into an ingame store system\n- Working on more server trailers and advertising",
                     "text2": "- <RichColor Color=\"1,0,0,1\">Crossmaps</> in the PvP area (starting with Scortch Earth)\n- If wished also in the PvE area\n- <RichColor Color=\"1,0,0,1\">Our focus</> is on 2 Man & 4 Man PvP Server\n- A fair INGAME <RichColor Color=\"1,0,0,1\">store system</> to better integrate <RichColor Color=\"1,0,0,1\">new</> or <RichColor Color=\"1,0,0,1\">wiped players</> into the game.\n- <RichColor Color=\"1,0,0,1\">Events</> (if there are enough players)\n- PvP Season with videos for the community\n- Trailer videos of the server maps\n- Discord development\n- Create our own community mod",
                     "imageurl": "https://i.imgur.com/53bXqEo.png"
             }
@@ -53,7 +53,7 @@
                     "title1": "<TextStyle.Orange>Current settings</>",
                     "title2": "<TextStyle.Orange>Nice to know</>",
 					"title3": "<TextStyle.Orange>Server restart info</>",
-                    "text1": "<TextStyle.Yellow>Wipe on first every month</>\n\n- 10x EXP\n- 10x Farming\n- 10x Taming (5x with 2x eat)\n- 40x Maturation | 20x Hatching\n- 15x Item stack | RawPrimeMeat up to 5\n- 25x Weight for Player/Dino\n- 2 man Tribe + 1 Alliance\n- No Mindwipe cooldown\n- Maximum wild dino level 150\n- Maximum player level 105\n- Enough points for all Engrams\n- No movement speed leveling\n- Cave building allowed (6x structure damage in caves)\n- Turrets in range place limit 150\n- 30 sec PVP respawn cooldown (not stacking) for YEET actions\n- Force wild dino respawn on server restart is enabled",                   
+                    "text1": "\n\n- 10x EXP\n- 10x Farming\n- 10x Taming (5x with 2x eat)\n- 40x Maturation | 20x Hatching\n- 15x Item stack | RawPrimeMeat up to 5\n- 25x Weight for Player/Dino\n- 2 man Tribe + 1 Alliance\n- No Mindwipe cooldown\n- Maximum wild dino level 150\n- Maximum player level 105\n- Enough points for all Engrams\n- No movement speed leveling\n- Cave building allowed (6x structure damage in caves)\n- Turrets in range place limit 150\n- 30 sec PVP respawn cooldown (not stacking) for YEET actions\n- Force wild dino respawn on server restart is enabled",                   
 					"text2": "Check out our other servers:\n\n<RichColor Color=\"1,0,0,1\">PVP</>\n- RTR [EU] -PVP- x10 | 4Man | Mods | >1<\n\n<RichColor Color=\"0,1,0,1\">PVE</>\n- RTR [EU] -PVE- x5 | Shop | NoWipe | >3<",
                     "text3": "Server restart <RichColor Color=\"0,1,0,1\">every day 6 AM</>\n\n- Only wild dino get wiped after restart\n- NO WIPE for tamed dinos, boss dinos (tek cave), sleeping dinos, and dinos actively being tamed",
 					"imageurl": "https://i.imgur.com/53bXqEo.png"
