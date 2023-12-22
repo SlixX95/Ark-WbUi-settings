@@ -30,8 +30,8 @@
                     "title2": "<TextStyle.Orange>Tame Missions</>",
                     "title3": "<TextStyle.Orange>Kill Missions</>",
                     "text1": "You find the <RichColor Color=\"0,1,0,1\">Shop</> related stuff in your <RichColor Color=\"0,1,0,1\">Inventory</> in the <RichColor Color=\"0,1,0,1\">bottom left corner</>\n\n- <RichColor Color=\"0,1,0,1\">Starter kits</> available\n- You gain <RichColor Color=\"0,1,0,1\">100 Gold every 15 min</>\n\n- We add more stuff from time to time\n\n- If you wish something special or have some ideas, please let us know!",
-                    "text2": "--> <RichColor Color=\"0,1,0,1\">share us your ideas on discord</>",
-                    "text3": "--> <RichColor Color=\"0,1,0,1\">share us your ideas on discord</>",
+                    "text2": "-> Check out our <RichColor Color=\"0,1,0,1\">new Tame Missions</>\n\n-> <RichColor Color=\"0,1,0,1\">share us your ideas on discord</>",
+                    "text3": "- <RichColor Color=\"1,1,0,1\">TOO BUGGY AT THE MOMENT</>",
                     "imageurl": "https://i.imgur.com/53bXqEo.png"
             }
 				},
@@ -41,8 +41,8 @@
                     "buttontext": "<RichColor Color=\"0,1,1,1\">RoadMap</>",
                     "title1": "<TextStyle.Orange>Work in progress</>",
                     "title2": "<TextStyle.Orange>Future plans</>",             
-                    "text1": "- We create items/kits for new players and integrate them into the ingame store system\n- Working on server trailers and advertising",
-                    "text2": "- <RichColor Color=\"1,0,0,1\">Crossmaps</> in the PvP area (starting with Scortch Earth)\n- If wished also in the PvE area\n- <RichColor Color=\"1,0,0,1\">Events</> (if there are enough players)\n- PvP Season with videos for the community\n- Trailer videos of the server maps\n- Discord development\n- Create our own community mod",
+                    "text1": "- Currently working on the fine-tuning for PvE (almost done)\n- Create items/kits for new players and integrate them into an ingame store system\n- Working on more server trailers and advertising",
+                    "text2": "- Adding <RichColor Color=\"1,0,0,1\">Vote Rewards</>\n- <RichColor Color=\"1,0,0,1\">Crossmaps</> in the PvP area (starting with Scortch Earth)\n- If wished also in the PvE area\n- <RichColor Color=\"1,0,0,1\">Our focus</> is on 2 Man & 4 Man PvP Server\n- <RichColor Color=\"1,0,0,1\">Events</> (if there are enough players)\n- PvP Season with videos for the community\n- Trailer videos of the server maps\n- Discord development\n- Create our own community mod",
                     "imageurl": "https://i.imgur.com/53bXqEo.png"
             }
 				},
@@ -53,7 +53,7 @@
                     "title1": "<TextStyle.Orange>Current settings</>",
                     "title2": "<TextStyle.Orange>Nice to know</>",
 					"title3": "<TextStyle.Orange>Server restart info</>",
-                    "text1": "<TextStyle.Yellow>No Wipe!</>\n\n- 5x EXP\n- 5x Farming\n- 5x Taming (2.5x with 2x eat)\n- 40x Maturation | 20x Hatching\n- 10x Item stack | RawPrimeMeat up to 50\n- 10x Weight for Player/Dino\n- 20 man Tribe + 3 Alliance\n- No Mindwipe cooldown\n- Maximum wild dino level 150\n- Maximum player level 105\n- Enough points for all Engrams\n- No movement speed leveling\n- NO cave building allowed\n- Force wild dino respawn on server restart is enabled",                   
+                    "text1": "<RichColor Color=\"1,1,0,1\">Help us grow and Vote for our Server with the button below.</>\n\n<TextStyle.Yellow>No Wipe!</>\n\n- 5x EXP\n- 5x Farming\n- 5x Taming (2.5x with 2x eat)\n- 40x Maturation | 20x Hatching\n- 10x Item stack | RawPrimeMeat up to 50\n- 10x Weight for Player/Dino\n- 20 man Tribe + 3 Alliance\n- No Mindwipe cooldown\n- Maximum wild dino level 150\n- Maximum player level 105\n- Enough points for all Engrams\n- No movement speed leveling\n- NO cave building allowed\n- Force wild dino respawn on server restart is enabled",                   
 					"text2": "Check out our other servers:\n\n<RichColor Color=\"1,0,0,1\">PVP</>\n- RTR [EU] -PVP- x10 | 4Man | Mods | >1<\n\n- RTR [EU] -PVP- x10 | 2Man | Starter Kits | >2<",
                     "text3": "Server restart <RichColor Color=\"0,1,0,1\">every day 6 AM</>\n\n- Only wild dino get wiped after restart\n- NO WIPE for tamed dinos, boss dinos (tek cave), sleeping dinos, and dinos actively being tamed",
 					"imageurl": "https://i.imgur.com/53bXqEo.png"
@@ -66,7 +66,7 @@
                     "title1": "<TextStyle.Orange>Bugs</>",
                     "title2": "<TextStyle.Orange>Poossible fixes</>",
                     "text1": "#1 - If you notice character lagging/rubberband after join\n\n#2 - Flying with Pteranodon feels laggy",
-                    "text2": "#1 - You have to die or travel between beds\n\n#2 - Wait for fix...",
+                    "text2": "#1 - You have to die or travel between beds -> think its fixed now!??\n\n#2 - Wait for fix...",
                     "imageurl": "https://i.imgur.com/53bXqEo.png"
             }
             }
@@ -87,18 +87,24 @@
 				},
 			{
 				"link3": {
-					"text": "<RichColor Color=\"1,0,0,1\">Youtube</>",
-					"url": "https://www.youtube.com/watch?v=RWqrhH35YWc"
+					"text": "<RichColor Color=\"1,0,0,1\">Youtube[GER]</>",
+					"url": "https://www.youtube.com/watch?v=shG6-ew194o"
 			}
 				},
-			{
+							{
 				"link4": {
-					"text": "<RichColor Color=\"1,0.65,0,1\">Vote for our Server here</>",
-					"url": "https://ark-servers.net/server/356359/vote/"
+					"text": "<RichColor Color=\"1,0,0,1\">Youtube[EN]</>",
+					"url": "https://www.youtube.com/watch?v=cjGRs4JV9fI"
 			}
 				},
 			{
 				"link5": {
+					"text": "<RichColor Color=\"1,0.65,0,1\">Vote for our Server here</>",
+					"url": "https://ark-servers.net/server/356358/vote/"
+			}
+				},
+			{
+				"link6": {
 					"text": "<RichColor Color=\"0,1,1,1\">Dododex</>",
 					"url": "https://www.dododex.com/"
 			}
