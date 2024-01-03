@@ -85,14 +85,14 @@
 				},
 			{
 				"link5": {
-					"text": "<RichColor Color=\"1,0.65,0,1\">Vote for our Server here</>",
-					"url": "https://ark-servers.net/server/356358/vote/"
+					"text": "<RichColor Color=\"0,1,1,1\">Dododex</>",
+					"url": "https://www.dododex.com/"
 			}
 				},
 			{
 				"link6": {
-					"text": "<RichColor Color=\"0,1,1,1\">Dododex</>",
-					"url": "https://www.dododex.com/"
+					"text": "<RichColor Color=\"0,1,1,1\">Donate</>",
+					"url": "https://www.google.de"
 			}
 			
             }
