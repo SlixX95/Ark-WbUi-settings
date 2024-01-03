@@ -18,20 +18,18 @@
                     "layout": 1,
                     "buttontext": "<RichColor Color=\"0,1,1,1\">Welcome</>",
                     "title1": "<TextStyle.Green>Welcome to our RagTag.Rocks 2Man PvP Server</>",
-                    "text1": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<TextStyle.Yellow>If you notice a problem, something is out of balance or if you have some wishes, please let us know!</>",
+                    "text1": "<TextStyle.Red>Important!!!</> -> Press <RichColor Color=\"1,1,0,1\">Press F1-4</> or hold <RichColor Color=\"1,1,0,1\">Reload</> button to access everthing!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<TextStyle.Yellow>If you notice a problem, something is out of balance or if you have some wishes, please let us know!</>",
                     "imageurl": "https://i.imgur.com/8kBADT8.png"
             }
 				},
             {
                 "tab2": {
-                    "layout": 3,
+                    "layout": 2,
                     "buttontext": "<RichColor Color=\"0,1,1,1\">Voting/Shop</>",
-                    "title1": "<TextStyle.Orange>Nice to know</>",
-                    "title2": "<TextStyle.Orange>Shop</>",
-                    "title3": "<TextStyle.Orange>Voting</>",
-                    "text1": "- <RichColor Color=\"1,1,0,1\">placeholder</>",
-                    "text2": "- <RichColor Color=\"1,1,0,1\">Press F1</> to open Shop menu\n\n- <RichColor Color=\"0,1,0,1\">Starter kits</> available\n- You gain <RichColor Color=\"0,1,0,1\">200 Coins every 15 min</>\n\n- We add more stuff from time to time\n\n- If you wish something special or have some ideas, please let us know!",
-                    "text3": "- <RichColor Color=\"1,1,0,1\">Press F2</>",
+                    "title1": "<TextStyle.Orange>Shop</>",
+                    "title2": "<TextStyle.Orange>Voting</>",
+                    "text1": "- <RichColor Color=\"1,1,0,1\">Press F1</> or hold <RichColor Color=\"1,1,0,1\">Reload</> button to open Shop menu\n\n- <RichColor Color=\"0,1,0,1\">Starter kits</> available\n- You gain <RichColor Color=\"0,1,0,1\">200 Coins every 15 min</>\n\n- We add more stuff from time to time\n\n- If you wish something special or have some ideas, please let us know!",
+                    "text2": "- <RichColor Color=\"1,1,0,1\">Press F2</> or hold <RichColor Color=\"1,1,0,1\">Reload</> button to open Vote menu\n\n\n<RichColor Color=\"1,1,0,1\">How the Voting works and how you get your Coins automatic?</>\n- You find instructions on our Discord under <RichColor Color=\"0,1,0,1\">Server-Infos</>\n- Instructions are in <RichColor Color=\"0,1,0,1\">GER</> and <RichColor Color=\"0,1,0,1\">EN</>\n\n- If you need help, you can ask in Discord or use our Support Tool",
                     "imageurl": "https://i.imgur.com/53bXqEo.png"
             }
 				},
@@ -42,7 +40,7 @@
                     "title1": "<TextStyle.Orange>Work in progress</>",
                     "title2": "<TextStyle.Orange>Future plans</>",             
                     "text1": "- Currently working on the fine-tuning for PvP (almost done)\n- Create items/kits for new players and integrate them into an ingame store system\n- Working on more server trailers and advertising",
-                    "text2": "- Adding <RichColor Color=\"1,0,0,1\">Vote Rewards</>\n- <RichColor Color=\"1,0,0,1\">Crossmaps</> in the PvP area (starting with Scortch Earth)\n- If wished also in the PvE area\n- <RichColor Color=\"1,0,0,1\">Our focus</> is on 2 Man & 4 Man PvP Server\n- <RichColor Color=\"1,0,0,1\">Events</> (if there are enough players)\n- PvP Season with videos for the community\n- Trailer videos of the server maps\n- Discord development\n- Create our own community mod",
+                    "text2": "- <RichColor Color=\"1,0,0,1\">Crossmaps</> in the PvP area (starting with new Center Map)\n- If wished also in the PvE area\n- <RichColor Color=\"1,0,0,1\">Events</> (if there are enough players)\n- PvP Season with videos for the community\n- Trailer videos of the server maps\n- Discord development\n- Create our own community mod",
                     "imageurl": "https://i.imgur.com/53bXqEo.png"
             }
 				},
@@ -66,7 +64,7 @@
                     "title1": "<TextStyle.Orange>Bugs</>",
                     "title2": "<TextStyle.Orange>Poossible fixes</>",
                     "text1": "#1 - If you notice character lagging/rubberband after join\n\n#2 - Flying with Pteranodon feels laggy",
-                    "text2": "#1 - You have to die or travel between beds -> think its fixed now!??\n\n#2 - Wait for fix...",
+                    "text2": "#1 - Its fixed now! YeY!\n\n#2 - Wait for fix...",
                     "imageurl": "https://i.imgur.com/53bXqEo.png"
             }
             }
