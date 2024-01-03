@@ -18,20 +18,18 @@
                     "layout": 1,
                     "buttontext": "<RichColor Color=\"0,1,1,1\">Welcome</>",
                     "title1": "<TextStyle.Green>Welcome to our RagTag.Rocks PvE Server</>",
-                    "text1": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<TextStyle.Yellow>If you notice a problem, something is out of balance or if you have some wishes, please let us know!</>",
+                    "text1": "<TextStyle.Red>Important!!!</> -> Press <RichColor Color=\"1,1,0,1\">Press F1-4</> or hold <RichColor Color=\"1,1,0,1\">Reload</> button to access everthing!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<TextStyle.Yellow>If you notice a problem, something is out of balance or if you have some wishes, please let us know!</>",
                     "imageurl": "https://i.imgur.com/8kBADT8.png"
             }
 				},
             {
                 "tab2": {
-                    "layout": 3,
-                    "buttontext": "<RichColor Color=\"0,1,1,1\">Shop info</>",
-                    "title1": "<TextStyle.Orange>Nice to know</>",
-                    "title2": "<TextStyle.Orange>Tame Missions</>",
-                    "title3": "<TextStyle.Orange>Kill Missions</>",
-                    "text1": "You find the <RichColor Color=\"0,1,0,1\">Shop</> related stuff in your <RichColor Color=\"0,1,0,1\">Inventory</> in the <RichColor Color=\"0,1,0,1\">bottom left corner</>\n\n- <RichColor Color=\"0,1,0,1\">Starter kits</> available\n- You gain <RichColor Color=\"0,1,0,1\">100 Gold every 15 min</>\n\n- We add more stuff from time to time\n\n- If you wish something special or have some ideas, please let us know!",
-                    "text2": "-> Check out our <RichColor Color=\"0,1,0,1\">new Tame Missions</>\n\n-> <RichColor Color=\"0,1,0,1\">share us your ideas on discord</>",
-                    "text3": "- <RichColor Color=\"1,1,0,1\">TOO BUGGY AT THE MOMENT</>",
+                    "layout": 2,
+                    "buttontext": "<RichColor Color=\"0,1,1,1\">Shop|Voting</>",
+                    "title1": "<TextStyle.Orange>Shop</>",
+                    "title2": "<TextStyle.Orange>Voting</>",
+                    "text1": "- <RichColor Color=\"1,1,0,1\">Press F1</> or hold <RichColor Color=\"1,1,0,1\">Reload</> button to open Shop menu\n\n- <RichColor Color=\"0,1,0,1\">Starter kits</> available\n- You gain <RichColor Color=\"0,1,0,1\">200 Coins every 15 min</>\n\n- We add more stuff from time to time\n\nIf you wish something special or have some ideas, please let us know!",
+                    "text2": "- <RichColor Color=\"1,1,0,1\">Press F2</> or hold <RichColor Color=\"1,1,0,1\">Reload</> button to open Vote menu\n\n<RichColor Color=\"0,1,0,1\">If you Vote for us you gain up to 2000 extra coins for every Vote!</>\n\n\n<RichColor Color=\"1,1,0,1\">How the Voting works and how you get your Coins automatic?</>\n- You find instructions on our Discord under <RichColor Color=\"0,1,0,1\">Server-Infos</>\n- Instructions are in <RichColor Color=\"0,1,0,1\">GER</> and <RichColor Color=\"0,1,0,1\">EN</>\n\nIf you need help, you can ask in Discord or use our Support Tool",
                     "imageurl": "https://i.imgur.com/53bXqEo.png"
             }
 				},
@@ -41,8 +39,8 @@
                     "buttontext": "<RichColor Color=\"0,1,1,1\">RoadMap</>",
                     "title1": "<TextStyle.Orange>Work in progress</>",
                     "title2": "<TextStyle.Orange>Future plans</>",             
-                    "text1": "- Currently working on the fine-tuning for PvE (almost done)\n- Create items/kits for new players and integrate them into an ingame store system\n- Working on more server trailers and advertising",
-                    "text2": "- Adding <RichColor Color=\"1,0,0,1\">Vote Rewards</>\n- <RichColor Color=\"1,0,0,1\">Crossmaps</> in the PvP area (starting with Scortch Earth)\n- If wished also in the PvE area\n- <RichColor Color=\"1,0,0,1\">Our focus</> is on 2 Man & 4 Man PvP Server\n- <RichColor Color=\"1,0,0,1\">Events</> (if there are enough players)\n- PvP Season with videos for the community\n- Trailer videos of the server maps\n- Discord development\n- Create our own community mod",
+                    "text1": "- Currently working on the fine-tuning for PvE (almost done)\n- Create items/kits for new players and integrate them into an ingame store system (done? miss something?)\n- Working on Vote rewards and rewards for Events\n- Working on more server trailers and advertising",
+                    "text2": "- <RichColor Color=\"1,0,0,1\">Crossmaps</> in the PvP area (starting with Center Map)\n- If wished also in the PvE area\n- <RichColor Color=\"1,0,0,1\">Events</> (if there are enough players)\n- PvP Season with videos for the community\n- Trailer videos of the server maps\n- Discord development\n- Create our own community mod",
                     "imageurl": "https://i.imgur.com/53bXqEo.png"
             }
 				},
@@ -53,7 +51,7 @@
                     "title1": "<TextStyle.Orange>Current settings</>",
                     "title2": "<TextStyle.Orange>Nice to know</>",
 					"title3": "<TextStyle.Orange>Server restart info</>",
-                    "text1": "<RichColor Color=\"1,1,0,1\">Help us grow and Vote for our Server with the button below.</>\n\n<TextStyle.Yellow>No Wipe!</>\n\n- 5x EXP\n- 5x Farming\n- 5x Taming (2.5x with 2x eat)\n- 40x Maturation | 20x Hatching\n- 10x Item stack | RawPrimeMeat up to 50\n- 10x Weight for Player/Dino\n- 20 man Tribe + 3 Alliance\n- No Mindwipe cooldown\n- Maximum wild dino level 150\n- Maximum player level 105\n- Enough points for all Engrams\n- No movement speed leveling\n- NO cave building allowed\n- Force wild dino respawn on server restart is enabled",                   
+                    "text1": "<TextStyle.Yellow>No Wipe!</>\n\n- 5x EXP\n- 5x Farming\n- 5x Taming (2.5x with 2x eat)\n- 40x Maturation | 20x Hatching\n- 10x Item stack | RawPrimeMeat up to 50\n- 10x Weight for Player/Dino\n- 20 man Tribe + 3 Alliance\n- No Mindwipe cooldown\n- Maximum wild dino level 150\n- Maximum player level 105\n- Enough points for all Engrams\n- No movement speed leveling\n- NO cave building allowed\n- Force wild dino respawn on server restart is enabled",                   
 					"text2": "Check out our other servers:\n\n<RichColor Color=\"1,0,0,1\">PVP</>\n- RTR [EU] -PVP- x10 | 4Man | Mods | >1<\n\n- RTR [EU] -PVP- x10 | 2Man | Starter Kits | >2<",
                     "text3": "Server restart <RichColor Color=\"0,1,0,1\">every day 6 AM</>\n\n- Only wild dino get wiped after restart\n- NO WIPE for tamed dinos, boss dinos (tek cave), sleeping dinos, and dinos actively being tamed",
 					"imageurl": "https://i.imgur.com/53bXqEo.png"
@@ -62,11 +60,22 @@
             {
                 "tab5": {
                     "layout": 2,
-                    "buttontext": "<RichColor Color=\"0,1,1,1\">Bug/Fix</>",
+                    "buttontext": "<RichColor Color=\"0,1,1,1\">Bug|Fix</>",
                     "title1": "<TextStyle.Orange>Bugs</>",
                     "title2": "<TextStyle.Orange>Poossible fixes</>",
                     "text1": "#1 - If you notice character lagging/rubberband after join\n\n#2 - Flying with Pteranodon feels laggy",
-                    "text2": "#1 - You have to die or travel between beds -> think its fixed now!??\n\n#2 - Wait for fix...",
+                    "text2": "#1 - Its fixed now! YeY!\n\n#2 - Wait for fix...",
+                    "imageurl": "https://i.imgur.com/53bXqEo.png"
+            }
+				},
+            {
+                "tab6": {
+                    "layout": 2,
+                    "buttontext": "<RichColor Color=\"1,0,0,1\">Rules</><RichColor Color=\"0,1,1,1\">|Support|</><RichColor Color=\"1,0,0,1\">Report</>",
+                    "title1": "<TextStyle.Red>Rules</>",
+                    "title2": "<TextStyle.Orange>Support/Report system</>",
+                    "text1": "- Outside of a raid, a person may not be held captive for longer than 30 minutes\n- In a raid it is 60 minutes\n\n- Teaming above the maximum number of alliances (1) and excessive trading, is not allowed\n\n\n<TextStyle.Orange>Not a Rule but Please</>\n- In PvP it can quickly become toxic, but keep a cool head and don't constantly insult.\n- Every player who likes to play PvP can only have fun playing PvP if other players are also playing. So don't kill everything indiscriminately in a raid or foundation wipe others just because you can. If dinos or players are no longer a threat to you, let them have what you don't need anyway. That way you might have a rematch next time :D\n\n\n\nIs something unclear? Let us know!",
+                    "text2": "<RichColor Color=\"1,1,0,1\">Press F4</> or hold <RichColor Color=\"1,1,0,1\">Reload</> button\n\n- You can report other players for cheating or breaking the rules\n- Or just to ask the Admins/Mods for help",
                     "imageurl": "https://i.imgur.com/53bXqEo.png"
             }
             }
