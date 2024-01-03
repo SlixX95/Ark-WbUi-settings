@@ -25,7 +25,7 @@
             {
                 "tab2": {
                     "layout": 2,
-                    "buttontext": "<RichColor Color=\"0,1,1,1\">Voting/Shop</>",
+                    "buttontext": "<RichColor Color=\"0,1,1,1\">Shop/Voting</>",
                     "title1": "<TextStyle.Orange>Shop</>",
                     "title2": "<TextStyle.Orange>Voting</>",
                     "text1": "- <RichColor Color=\"1,1,0,1\">Press F1</> or hold <RichColor Color=\"1,1,0,1\">Reload</> button to open Shop menu\n\n- <RichColor Color=\"0,1,0,1\">Starter kits</> available\n- You gain <RichColor Color=\"0,1,0,1\">200 Coins every 15 min</>\n\n- We add more stuff from time to time\n\n- If you wish something special or have some ideas, please let us know!",
@@ -65,6 +65,17 @@
                     "title2": "<TextStyle.Orange>Poossible fixes</>",
                     "text1": "#1 - If you notice character lagging/rubberband after join\n\n#2 - Flying with Pteranodon feels laggy",
                     "text2": "#1 - Its fixed now! YeY!\n\n#2 - Wait for fix...",
+                    "imageurl": "https://i.imgur.com/53bXqEo.png"
+            }
+				},
+            {
+                "tab6": {
+                    "layout": 2,
+                    "buttontext": "<RichColor Color=\"1,0,0,1\">Rules/Report</>",
+                    "title1": "<TextStyle.Red>Rules</>",
+                    "title2": "<TextStyle.Orange>Support/Report system</>",
+                    "text1": "- Outside of a raid, a person may not be held captive for longer than 30 minutes\n- Within a ride it is 60 minutes\n\n- Teaming above the maximum number of alliances (1) and excessive trading, is not allowed\n\n\n<TextStyle.Orange>Not a Rule but Please</>\n- In PvP it can quickly become toxic, but keep a cool head and don't constantly insult.\n- Every player who likes to play PvP can only have fun playing PvP if other players are also playing. So don't kill everything indiscriminately in a raid or foundation wipe others just because you can. If dinos or players are no longer a threat to you, let them have what you don't need anyway. That way you might have a rematch next time 🙂\n\n\n\nIs something unclear? Let us know!",
+                    "text2": "<RichColor Color=\"1,1,0,1\">Press F4</> or hold <RichColor Color=\"1,1,0,1\">Reload</> button",
                     "imageurl": "https://i.imgur.com/53bXqEo.png"
             }
             }
