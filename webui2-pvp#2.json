@@ -39,7 +39,7 @@
                     "buttontext": "<RichColor Color=\"0,1,1,1\">RoadMap</>",
                     "title1": "<TextStyle.Orange>Work in progress</>",
                     "title2": "<TextStyle.Orange>Future plans</>",             
-                    "text1": "- Currently working on the fine-tuning for PvP (almost done)\n- Create items/kits for new players and integrate them into an ingame store system(done? miss something?)\n- Working on Vote rewards and rewards for Events\n- Working on more server trailers and advertising",
+                    "text1": "- Currently working on the fine-tuning for PvP (almost done)\n- Create items/kits for new players and integrate them into an ingame store system (done? miss something?)\n- Working on Vote rewards and rewards for Events\n- Working on more server trailers and advertising",
                     "text2": "- <RichColor Color=\"1,0,0,1\">Crossmaps</> in the PvP area (starting with new Center Map)\n- If wished also in the PvE area\n- <RichColor Color=\"1,0,0,1\">Events</> (if there are enough players)\n- PvP Season with videos for the community\n- Trailer videos of the server maps\n- Discord development\n- Create our own community mod",
                     "imageurl": "https://i.imgur.com/53bXqEo.png"
             }
@@ -116,7 +116,6 @@
 					"text": "<RichColor Color=\"0,1,1,1\">Donate</>",
 					"url": "https://www.paypal.com/donate/?hosted_button_id=2ZHZGRD79GABQ"
 			}
-				
             }
         ]
     }
