@@ -29,7 +29,7 @@
                     "title1": "<TextStyle.Red>Shop not working currently</>",
                     "title2": "<TextStyle.Orange>Voting</>",
                     "text1": "- <RichColor Color=\"1,1,0,1\">Press F1</> or hold <RichColor Color=\"1,1,0,1\">Reload</> button to open Shop menu\n\n- <RichColor Color=\"0,1,0,1\">Starter kits</> available\n- You gain <RichColor Color=\"0,1,0,1\">200 Coins every 15 min</>\n\n- We add more stuff from time to time\n\nIf you wish something special or have some ideas, please let us know!",
-                    "text2": "- <RichColor Color=\"1,1,0,1\">Press F2</> or hold <RichColor Color=\"1,1,0,1\">Reload</> button to open Vote menu\n\n<RichColor Color=\"0,1,0,1\">If you Vote for us you gain up to 2000 extra coins for every Vote!</>\n\n\n<RichColor Color=\"1,1,0,1\">How the Voting works and how you get your Coins automatic?</>\n- You find instructions on our Discord under <RichColor Color=\"0,1,0,1\">Server-Infos</>\n- Instructions are in <RichColor Color=\"0,1,0,1\">GER</> and <RichColor Color=\"0,1,0,1\">EN</>\n\nIf you need help, you can ask in Discord or use our Support Tool",
+                    "text2": "- <RichColor Color=\"1,1,0,1\">Press F2</> or hold <RichColor Color=\"1,1,0,1\">Reload</> button to open Vote menu\n\n<RichColor Color=\"0,1,0,1\">If you Vote for us you get some free stuff</>\n\n\n<RichColor Color=\"1,1,0,1\">How the Voting works and how you get your Coins automatic?</>\n- You find instructions on our Discord under <RichColor Color=\"0,1,0,1\">Server-Infos</>\n- Instructions are in <RichColor Color=\"0,1,0,1\">GER</> and <RichColor Color=\"0,1,0,1\">EN</>\n\nIf you need help, you can ask in Discord or use our Support Tool",
                     "imageurl": "https://i.imgur.com/53bXqEo.png"
             }
 				},
@@ -39,7 +39,7 @@
                     "buttontext": "<RichColor Color=\"0,1,1,1\">RoadMap</>",
                     "title1": "<TextStyle.Orange>Work in progress</>",
                     "title2": "<TextStyle.Orange>Future plans</>",             
-                    "text1": "- Currently working on the fine-tuning for PvP (almost done)\n- Create items/kits for new players and integrate them into an ingame store system (done? miss something?)\n- Working on Vote rewards and rewards for Events\n- Working on more server trailers and advertising",
+                    "text1": "- Currently working on the fine-tuning for PvP (almost done)\n- Create items/kits for new players\n- Working on Vote rewards and rewards for Events\n- Working on more server trailers and advertising",
                     "text2": "- <RichColor Color=\"1,0,0,1\">Crossmaps</> in the PvP area (starting with new Center Map)\n- If wished also in the PvE area\n- <RichColor Color=\"1,0,0,1\">Events</> (if there are enough players)\n- PvP Season with videos for the community\n- Trailer videos of the server maps\n- Discord development\n- Create our own community mod",
                     "imageurl": "https://i.imgur.com/53bXqEo.png"
             }
@@ -75,7 +75,7 @@
                     "title1": "<TextStyle.Red>Rules</>",
                     "title2": "<TextStyle.Orange>Support/Report system</>",
                     "text1": "- Outside of a raid, a person may not be held captive for longer than 30 minutes\n- In a raid it is 60 minutes\n\n- Teaming above the maximum number of alliances (1) and excessive trading, is not allowed\n\n\n<TextStyle.Orange>Not a Rule but Please</>\n- In PvP it can quickly become toxic, but keep a cool head and don't constantly insult.\n- Every player who likes to play PvP can only have fun playing PvP if other players are also playing. So don't kill everything indiscriminately in a raid or foundation wipe others just because you can. If dinos or players are no longer a threat to you, let them have what you don't need anyway. That way you might have a rematch next time :D\n\n\n\nIs something unclear? Let us know!",
-                    "text2": "<RichColor Color=\"1,1,0,1\">Press F4</> or hold <RichColor Color=\"1,1,0,1\">Reload</> button\n\n- You can report other players for cheating or breaking the rules\n- Or just to ask the Admins/Mods for help",
+                    "text2": "<RichColor Color=\"1,1,0,1\">Press F4</> or hold <RichColor Color=\"1,1,0,1\">Reload</> button\n\n- You can report other players for cheating or breaking the rules\n- Or create a Ticket on our Discord\n- Or just to ask the Admins/Mods for help",
                     "imageurl": "https://i.imgur.com/53bXqEo.png"
             }
             }
