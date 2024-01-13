@@ -25,8 +25,8 @@
             {
                 "tab2": {
                     "layout": 2,
-                    "buttontext": "<RichColor Color=\"0,1,1,1\">Shop|Voting</>",
-                    "title1": "<TextStyle.Orange>Shop</>",
+                    "buttontext": "<RichColor Color=\"0,1,1,1\">Voting</>",
+                    "title1": "<TextStyle.Red>Shop not working currently</>",
                     "title2": "<TextStyle.Orange>Voting</>",
                     "text1": "- <RichColor Color=\"1,1,0,1\">Press F1</> or hold <RichColor Color=\"1,1,0,1\">Reload</> button to open Shop menu\n\n- <RichColor Color=\"0,1,0,1\">Starter kits</> available\n- You gain <RichColor Color=\"0,1,0,1\">200 Coins every 15 min</>\n\n- We add more stuff from time to time\n\nIf you wish something special or have some ideas, please let us know!",
                     "text2": "- <RichColor Color=\"1,1,0,1\">Press F2</> or hold <RichColor Color=\"1,1,0,1\">Reload</> button to open Vote menu\n\n<RichColor Color=\"0,1,0,1\">If you Vote for us you gain up to 2000 extra coins for every Vote!</>\n\n\n<RichColor Color=\"1,1,0,1\">How the Voting works and how you get your Coins automatic?</>\n- You find instructions on our Discord under <RichColor Color=\"0,1,0,1\">Server-Infos</>\n- Instructions are in <RichColor Color=\"0,1,0,1\">GER</> and <RichColor Color=\"0,1,0,1\">EN</>\n\nIf you need help, you can ask in Discord or use our Support Tool",
