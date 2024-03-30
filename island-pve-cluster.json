@@ -49,19 +49,8 @@
 					"imageurl": "https://i.imgur.com/Mz2JE1N.png"
             }
 				},
-            {
-                "tab5": {
-                    "layout": 2,
-                    "buttontext": "<RichColor Color=\"0,1,1,1\">RoadMap</>",
-                    "title1": "<TextStyle.Orange>Work in progress</>",
-                    "title2": "<TextStyle.Orange>Future plans</>",             
-                    "text1": "- Make ervything Cluster ready\n- Working on more server trailers and advertising\n- Create special Events\n- Fintune custom Drops",
-                    "text2": "- <RichColor Color=\"1,0,0,1\">Crossmaps</> in the PvP area (starting with new Center Map)\n- Also in the PvE area\n- Create our own community mod",
-                    "imageurl": "https://i.imgur.com/53bXqEo.png"
-            }
-				},
 			{
-                "tab6": {
+                "tab5": {
                     "layout": 3,
                     "buttontext": "<RichColor Color=\"0,1,1,1\">Server info</>",
                     "title1": "<TextStyle.Orange>Current settings</>",
@@ -74,7 +63,7 @@
             }
 				},
             {
-                "tab7": {
+                "tab6": {
                     "layout": 2,
                     "buttontext": "<RichColor Color=\"1,0,0,1\">Rules</><RichColor Color=\"0,1,1,1\">|Support|</><RichColor Color=\"1,0,0,1\">Report</>",
                     "title1": "<TextStyle.Red>Rules</>",
