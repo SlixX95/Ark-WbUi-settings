@@ -17,9 +17,9 @@
                 "tab1": {
                     "layout": 1,
                     "buttontext": "<RichColor Color=\"0,1,1,1\">Welcome</>",
-                    "title1": "<TextStyle.Green>Welcome to our RagTag.Rocks 3Man PvP Server</>",
+                    "title1": "<TextStyle.Green>Welcome to our RagTag.Rocks PvP Server</>",
                     "text1": "<TextStyle.Red>Important!!!</> -> Press <RichColor Color=\"1,1,0,1\">Press F1-4</> or hold <RichColor Color=\"1,1,0,1\">Reload</> button to access everthing!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<TextStyle.Yellow>If you notice a problem, something is out of balance or if you have some wishes, please let us know!</>",
-                    "imageurl": "https://i.imgur.com/8kBADT8.png"
+                    "imageurl": "https://i.imgur.com/25u4gdK.png"
             }
 				},
             {
@@ -28,7 +28,7 @@
                     "buttontext": "<RichColor Color=\"0,1,1,1\">Shop</>",
                     "title1": "",
                     "text1": "",
-                    "imageurl": "https://i.imgur.com/GIwUtub.png"
+                    "imageurl": "https://i.imgur.com/sjiZkAH.png"
             }
 				},
 			{
@@ -37,7 +37,7 @@
                     "buttontext": "<RichColor Color=\"0,1,1,1\">Sell/Quest</>",
                     "title1": "",
                     "text1": "",
-					"imageurl": "https://i.imgur.com/sQyGRcZ.png"
+					"imageurl": "https://i.imgur.com/wOXylvM.png"
             }
 				},
 			{
@@ -57,7 +57,7 @@
                     "title2": "<TextStyle.Orange>Future plans</>",             
                     "text1": "- Make ervything Cluster ready\n- Working on more server trailers and advertising\n- Create special Events\n- Fintune custom Drops",
                     "text2": "- <RichColor Color=\"1,0,0,1\">Crossmaps</> in the PvP area (starting with new Center Map)\n- Also in the PvE area\n- PvP Season with videos for the community\n- Create our own community mod",
-                    "imageurl": "https://i.imgur.com/53bXqEo.png"
+                    "imageurl": "https://i.imgur.com/4OaevRQ.png"
             }
 				},
 			{
@@ -70,7 +70,7 @@
                     "text1": "- 10x EXP\n- 10x Farming\n- 10x Taming (5x with 2x eat)\n- 40x Maturation | 20x Hatching\n- 15x Item stack | RawPrimeMeat up to 5\n- 20x Weight for Player/Dino\n- 3 man Tribe + 1 Alliance\n- No Mindwipe cooldown\n- Maximum wild dino level 150\n- Maximum player level 105 (without chib i etc.)\n- Auto Engram unlock (all engrams)\n- No movement speed leveling\n- Cave building allowed (6x structure damage in caves)\n- Turrets limit 150\n- Itemclamp Near offi (Weapon 400% | Armor Flak 700% | Saddle Rex 175% | Stego 100%)\n- 30 sec PVP respawn cooldown (not stacking) for YEET actions\n- No building on spawn points\n- Force wild dino respawn on server restart is enabled",
 					"text2": "- Orp is a placeable structure\n- 20 foundations range\n- 50% damage reduce (also to dinos)\n- Turrets deal 50% more damage\n- turned on after 45min\n- Orp bubble is invisible for others\n- No placemant in caves\n- Penalty for go offline while Raidflagged +120min\n- Orp get deactivated after 5 days if no tribemember logged in",
                     "text3": "Server restart <RichColor Color=\"0,1,0,1\">every day 6 AM</>\n\n- Only wild dino get wiped after restart\n- NO WIPE for tamed dinos, boss dinos (tek cave), sleeping dinos, and dinos actively being tamed",
-					"imageurl": "https://i.imgur.com/53bXqEo.png"
+					"imageurl": "https://i.imgur.com/4OaevRQ.png"
             }
 				},
             {
@@ -81,7 +81,7 @@
                     "title2": "<TextStyle.Orange>Support/Report system</>",
                     "text1": "- Outside of a raid, a person may not be held captive for longer than 30 minutes\n- In a raid it is 60 minutes\n\n- Teaming above the maximum number of alliances (1) and excessive trading, is not allowed\n\n\n<TextStyle.Orange>Not a Rule but Please</>\n- In PvP it can quickly become toxic, but keep a cool head and don't constantly insult.\n- Every player who likes to play PvP can only have fun playing PvP if other players are also playing. So don't kill everything indiscriminately in a raid or foundation wipe others just because you can. If dinos or players are no longer a threat to you, let them have what you don't need anyway. That way you might have a rematch next time :D\n\n\n\nIs something unclear? Let us know!",
                     "text2": "<RichColor Color=\"1,1,0,1\">Press F4</> or hold <RichColor Color=\"1,1,0,1\">Reload</> button\n\n- You can report other players for cheating or breaking the rules\n- Or create a Ticket on our Discord\n- Or just to ask the Admins/Mods for help",
-                    "imageurl": "https://i.imgur.com/53bXqEo.png"
+                    "imageurl": "https://i.imgur.com/4OaevRQ.png"
             }
             }
 				],

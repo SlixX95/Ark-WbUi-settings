@@ -17,7 +17,7 @@
                 "tab1": {
                     "layout": 1,
                     "buttontext": "<RichColor Color=\"0,1,1,1\">Welcome</>",
-                    "title1": "<TextStyle.Green>Welcome to our RagTag.Rocks 3Man PvP Server</>",
+                    "title1": "<TextStyle.Green>Welcome to our RagTag.Rocks PvP Server</>",
                     "text1": "<TextStyle.Red>Important!!!</> -> Press <RichColor Color=\"1,1,0,1\">Press F1-4</> or hold <RichColor Color=\"1,1,0,1\">Reload</> button to access everthing!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<TextStyle.Yellow>If you notice a problem, something is out of balance or if you have some wishes, please let us know!</>",
                     "imageurl": "https://i.imgur.com/8kBADT8.png"
             }
@@ -28,7 +28,7 @@
                     "buttontext": "<RichColor Color=\"0,1,1,1\">Shop</>",
                     "title1": "",
                     "text1": "",
-                    "imageurl": "https://i.imgur.com/GIwUtub.png"
+                    "imageurl": "https://i.imgur.com/sjiZkAH.png"
             }
 				},
 			{
@@ -37,7 +37,7 @@
                     "buttontext": "<RichColor Color=\"0,1,1,1\">Sell/Quest</>",
                     "title1": "",
                     "text1": "",
-					"imageurl": "https://i.imgur.com/sQyGRcZ.png"
+					"imageurl": "https://i.imgur.com/wOXylvM.png"
             }
 				},
 			{
