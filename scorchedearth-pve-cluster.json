@@ -17,9 +17,9 @@
                 "tab1": {
                     "layout": 1,
                     "buttontext": "<RichColor Color=\"0,1,1,1\">Welcome</>",
-                    "title1": "<TextStyle.Green>Welcome to our RagTag.Rocks PvE Server</>",
-                    "text1": "<TextStyle.Red>Important!!!</> -> Press <RichColor Color=\"1,1,0,1\">Press F1-4</> or hold <RichColor Color=\"1,1,0,1\">Reload</> button to access everthing!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<TextStyle.Yellow>If you notice a problem, something is out of balance or if you have some wishes, please let us know!</>",
-                    "imageurl": "https://i.imgur.com/MOEeskU.jpg"
+                    "title1": "",
+                    "text1": "",
+                    "imageurl": "https://i.imgur.com/jc3zQUX.png"
             }
 				},
             {
@@ -28,16 +28,25 @@
                     "buttontext": "<RichColor Color=\"0,1,1,1\">Shop</>",
                     "title1": "",
                     "text1": "",
-                    "imageurl": "https://i.imgur.com/sjiZkAH.png"
+                    "imageurl": "https://i.imgur.com/Vk5ycrA.png"
             }
 				},
 			{
                 "tab3": {
                     "layout": 1,
-                    "buttontext": "<RichColor Color=\"0,1,1,1\">Sell/Quest</>",
+                    "buttontext": "<RichColor Color=\"0,1,1,1\">Shop2</>",
                     "title1": "",
                     "text1": "",
-					"imageurl": "https://i.imgur.com/wOXylvM.png"
+					"imageurl": "https://i.imgur.com/lubewrM.png"
+            }
+				},
+							{
+                "tab4": {
+                    "layout": 1,
+                    "buttontext": "<RichColor Color=\"0,1,1,1\">Events</>",
+                    "title1": "",
+                    "text1": "",
+					"imageurl": "https://i.imgur.com/xzyFSe3.png"
             }
 				},
 			{
