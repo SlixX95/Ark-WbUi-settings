@@ -72,7 +72,7 @@
             }
 				},
             {
-                "tab6": {
+                "tab7": {
                     "layout": 2,
                     "buttontext": "<RichColor Color=\"1,0,0,1\">Rules</><RichColor Color=\"0,1,1,1\">|Support|</><RichColor Color=\"1,0,0,1\">Report</>",
                     "title1": "<TextStyle.Red>Rules</>",
