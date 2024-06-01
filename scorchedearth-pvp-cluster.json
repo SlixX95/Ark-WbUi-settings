@@ -70,10 +70,19 @@
 			{
 				"tab7": {
 					"layout": 1,
-					"buttontext": "<RichColor Color=\"0,1,1,1\">Settings|Rules</>",
+					"buttontext": "<RichColor Color=\"0,1,1,1\">Settings</>",
 					"title1": "",
 					"text1": "",
-					"imageurl": "https://i.imgur.com/KEblAV3.png"
+					"imageurl": "https://i.imgur.com/5oeZYSz.png"
+				}
+			},
+			{
+				"tab8": {
+					"layout": 1,
+					"buttontext": "<RichColor Color=\"1,0,0,1\">Rules</>",
+					"title1": "",
+					"text1": "",
+					"imageurl": "https://i.imgur.com/BxMwKSq.png"
 				}
 			}
 		],
