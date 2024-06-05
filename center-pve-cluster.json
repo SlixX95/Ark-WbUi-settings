@@ -1,107 +1,119 @@
 {
-    "WBUI2": {
-        "settings": {
-            "OpenButton": 2,
-            "HideIcon": false,
-            "HideIconAfter": 60,
-            "IconURL": "https://i.imgur.com/ClXeZHM.png",
-            "DisableIconText": true,
-            "IconPosition": 3,
-            "IconTextColor": 7,
-            "OpenOnStart": true,
-            "OpenOnStartOnlyNewPlayers": true,
-            "UpdateInterval": 6
-				},
-        "tabs": [
-            {
-                "tab1": {
-                    "layout": 1,
-                    "buttontext": "<RichColor Color=\"0,1,1,1\">Welcome</>",
-                    "title1": "<TextStyle.Green>Welcome to our RagTag.Rocks PvE Server</>",
-                    "text1": "<TextStyle.Red>Important!!!</> -> Press <RichColor Color=\"1,1,0,1\">Press F1-4</> or hold <RichColor Color=\"1,1,0,1\">Reload</> button to access everthing!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<TextStyle.Yellow>If you notice a problem, something is out of balance or if you have some wishes, please let us know!</>",
-                    "imageurl": "https://i.imgur.com/25u4gdK.png"
-            }
-				},
-            {
-                "tab2": {
-                    "layout": 1,
-                    "buttontext": "<RichColor Color=\"0,1,1,1\">Shop</>",
-                    "title1": "",
-                    "text1": "",
-                    "imageurl": "https://i.imgur.com/sjiZkAH.png"
-            }
-				},
+	"WBUI2": {
+		"settings": {
+			"OpenButton": 2,
+			"HideIcon": false,
+			"HideIconAfter": 60,
+			"IconURL": "https://i.imgur.com/ClXeZHM.png",
+			"DisableIconText": true,
+			"IconPosition": 2,
+			"IconTextColor": 7,
+			"OpenOnStart": true,
+			"OpenOnStartOnlyNewPlayers": true,
+			"UpdateInterval": 6
+		},
+		"tabs": [
 			{
-                "tab3": {
-                    "layout": 1,
-                    "buttontext": "<RichColor Color=\"0,1,1,1\">Sell/Quest</>",
-                    "title1": "",
-                    "text1": "",
-					"imageurl": "https://i.imgur.com/wOXylvM.png"
-            }
-				},
+				"tab1": {
+					"layout": 1,
+					"buttontext": "<RichColor Color=\"0,1,1,1\">Welcome</>",
+					"title1": "",
+					"text1": "",
+					"imageurl": "https://i.imgur.com/BVYUC0x.png"
+				}
+			},
 			{
-                "tab4": {
-                    "layout": 3,
-                    "buttontext": "<RichColor Color=\"0,1,1,1\">Server info</>",
-                    "title1": "<TextStyle.Orange>Current settings</>",
-                    "title2": "<TextStyle.Orange>Nice to know</>",
-					"title3": "<TextStyle.Orange>Server restart info</>",
-                    "text1": "<TextStyle.Yellow>No Wipe!</>\n\n- 2.5x EXP\n- 2.5x Farming\n- 5x Taming (2.5x with 2x eat)\n- 40x Maturation | 20x Hatching\n- 10x Item stack | RawPrimeMeat up to 50\n- Honey up to 20\n- 10x Weight for Player/Dino\n- 20 man Tribe + 3 Alliance\n- No Mindwipe cooldown\n- Maximum wild dino level 150\n- Maximum player level 105\n- Enough points for all Engrams\n- No movement speed leveling\n- NO cave building allowed\n- Plattform structure limit 40 > 160\n- BP clamp Weapon 500%\n- Dino & Structure decay\n- Anti Grifering\n- No building on spawn points\n- Force wild dino respawn on server restart is enabled",
-					"text2": "",
-                    "text3": "Server restart <RichColor Color=\"0,1,0,1\">every day 6 AM</>\n\n- Only wild dino get wiped after restart\n- NO WIPE for tamed dinos, boss dinos (tek cave), sleeping dinos, and dinos actively being tamed",
-					"imageurl": "https://i.imgur.com/4OaevRQ.png"
-            }
-				},
-            {
-                "tab5": {
-                    "layout": 2,
-                    "buttontext": "<RichColor Color=\"1,0,0,1\">Rules</><RichColor Color=\"0,1,1,1\">|Support|</><RichColor Color=\"1,0,0,1\">Report</>",
-                    "title1": "<TextStyle.Red>Rules</>",
-                    "title2": "<TextStyle.Orange>Support/Report system</>",
-                    "text1": "\n\n\nPlease remove your taming cages and spikes after a successful tame",
-                    "text2": "<RichColor Color=\"1,1,0,1\">Press F4</> or hold <RichColor Color=\"1,1,0,1\">Reload</> button\n\n- You can report other players for cheating or breaking the rules\n- Or create a Ticket on our Discord\n- Or just to ask the Admins/Mods for help",
-                    "imageurl": "https://i.imgur.com/4OaevRQ.png"
-            }
-            }
-				],
-        "links": [
-            {
-                "link1": {
-                    "text": "<RichColor Color=\"1,0,0,1\">Trailer video</>",
-                    "url": "https://www.youtube.com/watch?v=NHinLwUdhxc"
-            }
-				},
+				"tab2": {
+					"layout": 1,
+					"buttontext": "<RichColor Color=\"0,1,1,1\">Shop</>",
+					"title1": "",
+					"text1": "",
+					"imageurl": "https://i.imgur.com/SKwrRTM.png"
+				}
+			},
+			{
+				"tab3": {
+					"layout": 1,
+					"buttontext": "<RichColor Color=\"0,1,1,1\">Shop2</>",
+					"title1": "",
+					"text1": "",
+					"imageurl": "https://i.imgur.com/mAHo05J.png"
+				}
+			},
+			{
+				"tab4": {
+					"layout": 1,
+					"buttontext": "<RichColor Color=\"0,1,0,1\">XBOX</>",
+					"title1": "",
+					"text1": "",
+					"imageurl": "https://i.imgur.com/sbBatcw.png"
+				}
+			},
+			{
+				"tab5": {
+					"layout": 1,
+					"buttontext": "<RichColor Color=\"0,1,1,1\">Events</>",
+					"title1": "",
+					"text1": "",
+					"imageurl": "https://i.imgur.com/NgHE09P.png"
+				}
+			},
+			{
+				"tab6": {
+					"layout": 1,
+					"buttontext": "<RichColor Color=\"0,1,1,1\">C. Drops</>",
+					"title1": "SOOON",
+					"text1": "",
+					"imageurl": ""
+				}
+			},
+			{
+				"tab7": {
+					"layout": 1,
+					"buttontext": "<RichColor Color=\"0,1,1,1\">Settings|Rules</>",
+					"title1": "",
+					"text1": "",
+					"imageurl": "https://i.imgur.com/yVOleDQ.png"
+				}
+			}
+		],
+		"links": [
+			{
+				"link1": {
+					"text": "<RichColor Color=\"1,0,0,1\">Trailer video</>",
+					"url": "https://www.youtube.com/watch?v=NHinLwUdhxc"
+				}
+			},
 			{
 				"link2": {
-                    "text": "<RichColor Color=\"0,1,0,1\">Discord</>",
-                    "url": "https://discord.gg/TZPbvsVm2U"
-			}
-				},
+					"text": "<RichColor Color=\"0,1,0,1\">Discord</>",
+					"url": "https://discord.gg/TZPbvsVm2U"
+				}
+			},
 			{
 				"link3": {
 					"text": "<RichColor Color=\"1,0,0,1\">Youtube[GER]</>",
 					"url": "https://www.youtube.com/@RtRFinch/videos"
-			}
-				},
-							{
+				}
+			},
+			{
 				"link4": {
 					"text": "<RichColor Color=\"1,0,0,1\">Youtube[EN]</>",
 					"url": "https://www.youtube.com/@frodo9063/videos"
-			}
-				},
+				}
+			},
 			{
 				"link5": {
 					"text": "<RichColor Color=\"0,1,1,1\">Dododex</>",
 					"url": "https://www.dododex.com/"
-			}
-				},
+				}
+			},
 			{
 				"link6": {
 					"text": "<RichColor Color=\"0,1,1,1\">Donate</>",
 					"url": "https://www.paypal.com/donate/?hosted_button_id=2ZHZGRD79GABQ"
+				}
 			}
-            }
-        ]
-    }
+		]
+	}
 }

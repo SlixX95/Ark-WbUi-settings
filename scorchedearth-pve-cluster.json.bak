@@ -6,7 +6,7 @@
 			"HideIconAfter": 60,
 			"IconURL": "https://i.imgur.com/ClXeZHM.png",
 			"DisableIconText": true,
-			"IconPosition": 2,
+			"IconPosition": 3,
 			"IconTextColor": 7,
 			"OpenOnStart": true,
 			"OpenOnStartOnlyNewPlayers": true,
@@ -19,7 +19,7 @@
 					"buttontext": "<RichColor Color=\"0,1,1,1\">Welcome</>",
 					"title1": "",
 					"text1": "",
-					"imageurl": "https://i.imgur.com/q7dHY1X.png"
+					"imageurl": "https://i.imgur.com/KsbNooh.png"
 				}
 			},
 			{
@@ -64,7 +64,7 @@
 					"buttontext": "<RichColor Color=\"0,1,1,1\">C. Drops</>",
 					"title1": "",
 					"text1": "",
-					"imageurl": "https://i.imgur.com/kVLSEfE.png"
+					"imageurl": "https://i.imgur.com/CJMLDoY.png"
 				}
 			},
 			{
