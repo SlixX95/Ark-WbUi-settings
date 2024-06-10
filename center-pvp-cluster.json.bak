@@ -37,7 +37,7 @@
 					"buttontext": "<RichColor Color=\"0,1,1,1\">Shop2</>",
 					"title1": "",
 					"text1": "",
-					"imageurl": "https://i.imgur.com/mAHo05J.png"
+					"imageurl": "https://i.imgur.com/M8hZsYp.png"
 				}
 			},
 			{
@@ -55,7 +55,7 @@
 					"buttontext": "<RichColor Color=\"0,1,1,1\">Events</>",
 					"title1": "",
 					"text1": "",
-					"imageurl": "https://i.imgur.com/GriEKGn.png"
+					"imageurl": "https://i.imgur.com/NCgP1rS.png"
 				}
 			},
 			{
@@ -70,10 +70,19 @@
 			{
 				"tab7": {
 					"layout": 1,
-					"buttontext": "<RichColor Color=\"0,1,1,1\">Settings|Rules</>",
+					"buttontext": "<RichColor Color=\"0,1,1,1\">Settings</>",
 					"title1": "",
 					"text1": "",
-					"imageurl": "https://i.imgur.com/yVOleDQ.png"
+					"imageurl": "https://i.imgur.com/wAibmQ6.png"
+				}
+			},
+			{
+				"tab8": {
+					"layout": 1,
+					"buttontext": "<RichColor Color=\"1,0,0,1\">Rules</>",
+					"title1": "",
+					"text1": "",
+					"imageurl": "https://i.imgur.com/YUDdYfr.png"
 				}
 			}
 		],
@@ -81,7 +90,7 @@
 			{
 				"link1": {
 					"text": "<RichColor Color=\"1,0,0,1\">Trailer video</>",
-					"url": "https://www.youtube.com/watch?v=NHinLwUdhxc"
+					"url": "https://www.youtube.com/watch?v=jEGueapmDE4"
 				}
 			},
 			{
