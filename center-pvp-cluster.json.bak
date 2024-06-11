@@ -19,7 +19,7 @@
 					"buttontext": "<RichColor Color=\"0,1,1,1\">Welcome</>",
 					"title1": "",
 					"text1": "",
-					"imageurl": "https://i.imgur.com/0szYpIm.png"
+					"imageurl": "https://i.imgur.com/BVYUC0x.png"
 				}
 			},
 			{
@@ -28,7 +28,7 @@
 					"buttontext": "<RichColor Color=\"0,1,1,1\">Shop</>",
 					"title1": "",
 					"text1": "",
-					"imageurl": "https://i.imgur.com/ELYk490.png"
+					"imageurl": "https://i.imgur.com/SKwrRTM.png"
 				}
 			},
 			{
@@ -62,9 +62,9 @@
 				"tab6": {
 					"layout": 1,
 					"buttontext": "<RichColor Color=\"0,1,1,1\">C. Drops</>",
-					"title1": "",
+					"title1": "SOOON",
 					"text1": "",
-					"imageurl": "https://i.imgur.com/kVLSEfE.png"
+					"imageurl": ""
 				}
 			},
 			{
@@ -73,7 +73,7 @@
 					"buttontext": "<RichColor Color=\"0,1,1,1\">Settings</>",
 					"title1": "",
 					"text1": "",
-					"imageurl": "https://i.imgur.com/5nYidci.png"
+					"imageurl": "https://i.imgur.com/wAibmQ6.png"
 				}
 			},
 			{
@@ -82,7 +82,7 @@
 					"buttontext": "<RichColor Color=\"1,0,0,1\">Rules</>",
 					"title1": "",
 					"text1": "",
-					"imageurl": "https://i.imgur.com/LvcGQ5N.png"
+					"imageurl": "https://i.imgur.com/YUDdYfr.png"
 				}
 			}
 		],
