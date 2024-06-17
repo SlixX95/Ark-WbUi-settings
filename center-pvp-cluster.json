@@ -37,11 +37,20 @@
 					"buttontext": "<RichColor Color=\"0,1,1,1\">Shop2</>",
 					"title1": "",
 					"text1": "",
-					"imageurl": "https://i.imgur.com/h6kXFm6.png"
+					"imageurl": "https://i.imgur.com/rzErhyC.png"
 				}
 			},
 			{
 				"tab4": {
+					"layout": 1,
+					"buttontext": "<RichColor Color=\"0,1,1,1\">Shop3</>",
+					"title1": "",
+					"text1": "",
+					"imageurl": "https://i.imgur.com/4VMdTFq.png"
+				}
+			},
+			{
+				"tab5": {
 					"layout": 1,
 					"buttontext": "<RichColor Color=\"0,1,0,1\">XBOX</>",
 					"title1": "",
@@ -50,7 +59,7 @@
 				}
 			},
 			{
-				"tab5": {
+				"tab6": {
 					"layout": 1,
 					"buttontext": "<RichColor Color=\"0,1,1,1\">Events</>",
 					"title1": "",
@@ -59,7 +68,7 @@
 				}
 			},
 			{
-				"tab6": {
+				"tab7": {
 					"layout": 1,
 					"buttontext": "<RichColor Color=\"0,1,1,1\">C. Drops</>",
 					"title1": "",
@@ -68,21 +77,21 @@
 				}
 			},
 			{
-				"tab7": {
+				"tab8": {
 					"layout": 1,
 					"buttontext": "<RichColor Color=\"0,1,1,1\">Settings</>",
 					"title1": "",
 					"text1": "",
-					"imageurl": "https://i.imgur.com/wAibmQ6.png"
+					"imageurl": "https://i.imgur.com/nsP22Dx.png"
 				}
 			},
 			{
-				"tab8": {
+				"tab9": {
 					"layout": 1,
 					"buttontext": "<RichColor Color=\"1,0,0,1\">Rules</>",
 					"title1": "",
 					"text1": "",
-					"imageurl": "https://i.imgur.com/YUDdYfr.png"
+					"imageurl": "https://i.imgur.com/8SB10am.png"
 				}
 			}
 		],
