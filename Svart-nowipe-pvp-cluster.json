@@ -1,0 +1,146 @@
+{
+	"WBUI2": {
+		"settings": {
+			"OpenButton": 2,
+			"HideIcon": true,
+			"HideIconAfter": 60,
+			"IconURL": "",
+			"DisableIconText": true,
+			"IconPosition": 2,
+			"IconTextColor": 7,
+			"OpenOnStart": true,
+			"OpenOnStartOnlyNewPlayers": true,
+			"UpdateInterval": 6
+		},
+		"tabs": [
+			{
+				"tab1": {
+					"layout": 1,
+					"buttontext": "<RichColor Color=\"0,1,1,1\">Welcome</>",
+					"title1": "",
+					"text1": "",
+					"imageurl": "https://i.imgur.com/dvhCmTl.png"
+				}
+			},
+			{
+				"tab2": {
+					"layout": 1,
+					"buttontext": "<RichColor Color=\"0,1,1,1\">Shop</>",
+					"title1": "",
+					"text1": "",
+					"imageurl": "https://i.imgur.com/ELYk490.png"
+				}
+			},
+			{
+				"tab3": {
+					"layout": 1,
+					"buttontext": "<RichColor Color=\"0,1,1,1\">Shop2</>",
+					"title1": "",
+					"text1": "",
+					"imageurl": "https://i.imgur.com/hzaknVi.png"
+				}
+			},
+			{
+				"tab4": {
+					"layout": 1,
+					"buttontext": "<RichColor Color=\"0,1,1,1\">Shop3</>",
+					"title1": "",
+					"text1": "",
+					"imageurl": "https://i.imgur.com/b9X8l1w.png"
+				}
+			},
+			{
+				"tab5": {
+					"layout": 1,
+					"buttontext": "<RichColor Color=\"0,1,0,1\">XBOX</>",
+					"title1": "",
+					"text1": "",
+					"imageurl": "https://i.imgur.com/ourJFYH.png"
+				}
+			},
+			{
+				"tab6": {
+					"layout": 1,
+					"buttontext": "<RichColor Color=\"0,1,1,1\">Commands</>",
+					"title1": "",
+					"text1": "",
+					"imageurl": "https://i.imgur.com/RcqbrFK.png"
+				}
+			},
+			{
+				"tab7": {
+					"layout": 1,
+					"buttontext": "<RichColor Color=\"0,1,1,1\">Events</>",
+					"title1": "",
+					"text1": "",
+					"imageurl": "https://i.imgur.com/GriEKGn.png"
+				}
+			},
+			{
+				"tab8": {
+					"layout": 1,
+					"buttontext": "<RichColor Color=\"0,1,1,1\">C. Drops</>",
+					"title1": "",
+					"text1": "",
+					"imageurl": "https://i.imgur.com/kVLSEfE.png"
+				}
+			},
+			{
+				"tab9": {
+					"layout": 1,
+					"buttontext": "<RichColor Color=\"0,1,1,1\">Settings</>",
+					"title1": "",
+					"text1": "",
+					"imageurl": "https://i.imgur.com/GSKpMXC.png"
+				}
+			},
+			{
+				"tab10": {
+					"layout": 1,
+					"buttontext": "<RichColor Color=\"1,0,0,1\">Rules</>",
+					"title1": "",
+					"text1": "",
+					"imageurl": "https://i.imgur.com/bDlj1Tu.png"
+				}
+			}
+		],
+		"links": [
+			{
+				"link1": {
+					"text": "<RichColor Color=\"1,0,0,1\">Trailer video</>",
+					"url": "https://www.youtube.com/watch?v=jEGueapmDE4"
+				}
+			},
+			{
+				"link2": {
+					"text": "<RichColor Color=\"0,1,0,1\">Discord</>",
+					"url": "https://discord.gg/TZPbvsVm2U"
+				}
+			},
+			{
+				"link3": {
+					"text": "<RichColor Color=\"1,0,0,1\">Youtube[GER]</>",
+					"url": "https://www.youtube.com/@RtRFinch/videos"
+				}
+			},
+			{
+				"link4": {
+					"text": "<RichColor Color=\"1,0,0,1\">Youtube[EN]</>",
+					"url": "https://www.youtube.com/@frodo9063/videos"
+				}
+			},
+			{
+				"link5": {
+					"text": "<RichColor Color=\"0,1,1,1\">Dododex</>",
+					"url": "https://www.dododex.com/"
+				}
+			},
+			{
+				"link6": {
+					"text": "<RichColor Color=\"0,1,1,1\">Donate</>",
+					"url": "https://www.paypal.com/donate/?hosted_button_id=2ZHZGRD79GABQ"
+				}
+			}
+		]
+	}
+}
