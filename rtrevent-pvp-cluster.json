@@ -19,7 +19,7 @@
 					"buttontext": "<RichColor Color=\"0,1,1,1\">Welcome</>",
 					"title1": "",
 					"text1": "",
-					"imageurl": "https://i.imgur.com/3a3irjH.png"
+					"imageurl": ""
 				}
 			},
 			{
@@ -28,7 +28,7 @@
 					"buttontext": "<RichColor Color=\"0,1,1,1\">Shop</>",
 					"title1": "",
 					"text1": "",
-					"imageurl": "https://i.imgur.com/ELYk490.png"
+					"imageurl": ""
 				}
 			},
 			{
@@ -37,7 +37,7 @@
 					"buttontext": "<RichColor Color=\"0,1,1,1\">Shop2</>",
 					"title1": "",
 					"text1": "",
-					"imageurl": "https://i.imgur.com/hzaknVi.png"
+					"imageurl": ""
 				}
 			},
 			{
@@ -46,7 +46,7 @@
 					"buttontext": "<RichColor Color=\"0,1,1,1\">Shop3</>",
 					"title1": "",
 					"text1": "",
-					"imageurl": "https://i.imgur.com/b9X8l1w.png"
+					"imageurl": ""
 				}
 			},
 			{
@@ -55,7 +55,7 @@
 					"buttontext": "<RichColor Color=\"0,1,0,1\">XBOX</>",
 					"title1": "",
 					"text1": "",
-					"imageurl": "https://i.imgur.com/ourJFYH.png"
+					"imageurl": ""
 				}
 			},
 			{
@@ -64,7 +64,7 @@
 					"buttontext": "<RichColor Color=\"0,1,1,1\">Commands</>",
 					"title1": "",
 					"text1": "",
-					"imageurl": "https://i.imgur.com/RcqbrFK.png"
+					"imageurl": "https://i.postimg.cc/tXZN31P7/Commands.png"
 				}
 			},
 			{
@@ -73,7 +73,7 @@
 					"buttontext": "<RichColor Color=\"0,1,1,1\">Events</>",
 					"title1": "",
 					"text1": "",
-					"imageurl": "https://i.imgur.com/GriEKGn.png"
+					"imageurl": ""
 				}
 			},
 			{
@@ -82,7 +82,7 @@
 					"buttontext": "<RichColor Color=\"0,1,1,1\">C. Drops</>",
 					"title1": "",
 					"text1": "",
-					"imageurl": "https://i.imgur.com/kVLSEfE.png"
+					"imageurl": ""
 				}
 			},
 			{
@@ -91,7 +91,7 @@
 					"buttontext": "<RichColor Color=\"0,1,1,1\">Settings</>",
 					"title1": "",
 					"text1": "",
-					"imageurl": "https://i.imgur.com/HGpDFFy.png"
+					"imageurl": ""
 				}
 			},
 			{
@@ -100,7 +100,7 @@
 					"buttontext": "<RichColor Color=\"1,0,0,1\">Rules</>",
 					"title1": "",
 					"text1": "",
-					"imageurl": "https://i.imgur.com/rMqovju.png"
+					"imageurl": ""
 				}
 			}
 		],
