@@ -34,10 +34,10 @@
 			{
 				"tab3": {
 					"layout": 1,
-					"buttontext": "<RichColor Color=\"1,0,0,1\">Rules</>",
+					"buttontext": "<RichColor Color=\"0,1,1,1\">Settings|Rules</>",
 					"title1": "",
 					"text1": "",
-					"imageurl": "https://i.postimg.cc/0Pnrz6kF/Rules-RTREvent.png"
+					"imageurl": "https://i.postimg.cc/pWyX5kd6/Settings-Rules-RTREvent.png"
 				}
 			}
 		],
