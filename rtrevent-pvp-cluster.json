@@ -34,73 +34,10 @@
 			{
 				"tab3": {
 					"layout": 1,
-					"buttontext": "<RichColor Color=\"0,1,1,1\">Shop2</>",
-					"title1": "",
-					"text1": "",
-					"imageurl": ""
-				}
-			},
-			{
-				"tab4": {
-					"layout": 1,
-					"buttontext": "<RichColor Color=\"0,1,1,1\">Shop3</>",
-					"title1": "",
-					"text1": "",
-					"imageurl": ""
-				}
-			},
-			{
-				"tab5": {
-					"layout": 1,
-					"buttontext": "<RichColor Color=\"0,1,0,1\">XBOX</>",
-					"title1": "",
-					"text1": "",
-					"imageurl": ""
-				}
-			},
-			{
-				"tab6": {
-					"layout": 1,
-					"buttontext": "<RichColor Color=\"0,1,1,1\">Commands</>",
-					"title1": "",
-					"text1": "",
-					"imageurl": "https://i.postimg.cc/tXZN31P7/Commands.png"
-				}
-			},
-			{
-				"tab7": {
-					"layout": 1,
-					"buttontext": "<RichColor Color=\"0,1,1,1\">Events</>",
-					"title1": "",
-					"text1": "",
-					"imageurl": ""
-				}
-			},
-			{
-				"tab8": {
-					"layout": 1,
-					"buttontext": "<RichColor Color=\"0,1,1,1\">C. Drops</>",
-					"title1": "",
-					"text1": "",
-					"imageurl": ""
-				}
-			},
-			{
-				"tab9": {
-					"layout": 1,
-					"buttontext": "<RichColor Color=\"0,1,1,1\">Settings</>",
-					"title1": "",
-					"text1": "",
-					"imageurl": ""
-				}
-			},
-			{
-				"tab10": {
-					"layout": 1,
 					"buttontext": "<RichColor Color=\"1,0,0,1\">Rules</>",
 					"title1": "",
 					"text1": "",
-					"imageurl": ""
+					"imageurl": "https://i.postimg.cc/0Pnrz6kF/Rules-RTREvent.png"
 				}
 			}
 		],
