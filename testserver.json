@@ -3,14 +3,14 @@
 		"settings": {
 			"OpenButton": 2,
 			"HideIcon": true,
-			"HideIconAfter": 60,
+			"HideIconAfter": 5,
 			"IconURL": "",
 			"DisableIconText": true,
 			"IconPosition": 2,
 			"IconTextColor": 7,
 			"OpenOnStart": true,
-			"OpenOnStartOnlyNewPlayers": true,
-			"UpdateInterval": 6
+			"OpenOnStartOnlyNewPlayers": false,
+			"UpdateInterval": 24
 		},
 		"tabs": [
 			{
