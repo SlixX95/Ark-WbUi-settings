@@ -64,7 +64,7 @@
 					"buttontext": "<RichColor Color=\"0,1,1,1\">Commands</>",
 					"title1": "",
 					"text1": "",
-					"imageurl": "https://i.postimg.cc/brw4913x/Commands.png"
+					"imageurl": "https://i.postimg.cc/N0gGBP5c/Commands.png"
 				}
 			},
 			{
@@ -78,15 +78,6 @@
 			},
 			{
 				"tab8": {
-					"layout": 1,
-					"buttontext": "<RichColor Color=\"0,1,1,1\">C. Drops</>",
-					"title1": "",
-					"text1": "",
-					"imageurl": "https://i.postimg.cc/7wktqNz9/Drops-Island-Center.png"
-				}
-			},
-			{
-				"tab9": {
 					"layout": 1,
 					"buttontext": "<RichColor Color=\"0,1,1,1\">Settings|Rules</>",
 					"title1": "",
