@@ -3,14 +3,14 @@
 		"settings": {
 			"OpenButton": 2,
 			"HideIcon": true,
-			"HideIconAfter": 5,
+			"HideIconAfter": 60,
 			"IconURL": "",
 			"DisableIconText": true,
 			"IconPosition": 2,
 			"IconTextColor": 7,
 			"OpenOnStart": true,
 			"OpenOnStartOnlyNewPlayers": true,
-			"UpdateInterval": 24
+			"UpdateInterval": 6
 		},
 		"tabs": [
 			{
@@ -19,7 +19,7 @@
 					"buttontext": "<RichColor Color=\"0,1,1,1\">Welcome</>",
 					"title1": "",
 					"text1": "",
-					"imageurl": "https://i.postimg.cc/cZHwwtSW/Startbild-island.png"
+					"imageurl": "https://i.postimg.cc/cZHwwtSW/Startbild-Island.png"
 				}
 			},
 			{
@@ -37,7 +37,7 @@
 					"buttontext": "<RichColor Color=\"0,1,1,1\">Shop2</>",
 					"title1": "",
 					"text1": "",
-					"imageurl": "https://i.postimg.cc/z8hNcprk/Kits-PvP.png"
+					"imageurl": "https://i.postimg.cc/2611NXK5/Kits-PvP.png"
 				}
 			},
 			{
@@ -46,20 +46,11 @@
 					"buttontext": "<RichColor Color=\"0,1,1,1\">Shop3</>",
 					"title1": "",
 					"text1": "",
-					"imageurl": "https://i.postimg.cc/jjvKbqwS/Gamble-Shop.png"
+					"imageurl": "https://i.postimg.cc/yYcSNtYg/Gamble-Shop.png"
 				}
 			},
 			{
 				"tab5": {
-					"layout": 1,
-					"buttontext": "<RichColor Color=\"0,1,0,1\">XBOX</>",
-					"title1": "",
-					"text1": "",
-					"imageurl": "https://i.postimg.cc/6tc2y98S/Xbox-Shop.png"
-				}
-			},
-			{
-				"tab6": {
 					"layout": 1,
 					"buttontext": "<RichColor Color=\"0,1,1,1\">Commands</>",
 					"title1": "",
@@ -68,7 +59,7 @@
 				}
 			},
 			{
-				"tab7": {
+				"tab6": {
 					"layout": 1,
 					"buttontext": "<RichColor Color=\"0,1,1,1\">Events</>",
 					"title1": "",
@@ -77,7 +68,7 @@
 				}
 			},
 			{
-				"tab8": {
+				"tab7": {
 					"layout": 1,
 					"buttontext": "<RichColor Color=\"0,1,1,1\">Settings</>",
 					"title1": "",
@@ -86,7 +77,7 @@
 				}
 			},
 			{
-				"tab9": {
+				"tab8": {
 					"layout": 1,
 					"buttontext": "<RichColor Color=\"1,0,0,1\">Rules</>",
 					"title1": "",
