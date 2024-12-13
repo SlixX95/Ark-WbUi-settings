@@ -19,7 +19,7 @@
 					"buttontext": "<RichColor Color=\"0,1,1,1\">Welcome</>",
 					"title1": "",
 					"text1": "",
-					"imageurl": "https://i.postimg.cc/FvG0YgwG/Startbild-Scortched.png"
+					"imageurl": "https://i.postimg.cc/bJmHzrnG/Startbild-Scortch.png"
 				}
 			},
 			{
@@ -37,7 +37,7 @@
 					"buttontext": "<RichColor Color=\"0,1,1,1\">Shop2</>",
 					"title1": "",
 					"text1": "",
-					"imageurl": "https://i.postimg.cc/wHC8LJmR/Kits-Sell-Shop-Pv-E.png"
+					"imageurl": "https://i.postimg.cc/TYJ4XKQT/Kits-Sell-Shop-Pv-E.png"
 				}
 			},
 			{
@@ -73,7 +73,7 @@
 					"buttontext": "<RichColor Color=\"0,1,1,1\">Settings|Rules</>",
 					"title1": "",
 					"text1": "",
-					"imageurl": "https://i.postimg.cc/5b8c30B7/Settings-Rules-Pv-E.png"
+					"imageurl": "https://i.postimg.cc/T32H2THg/Settings-Rules-Pv-E.png"
 				}
 			}
 		],
@@ -110,8 +110,8 @@
 			},
 			{
 				"link6": {
-					"text": "<RichColor Color=\"0,1,1,1\">Donate</>",
-					"url": "https://www.paypal.com/donate/?hosted_button_id=2ZHZGRD79GABQ"
+					"text": "<RichColor Color=\"0,1,1,1\">Website/Shop/Donate</>",
+					"url": "https://rtrark.org/"
 				}
 			}
 		]

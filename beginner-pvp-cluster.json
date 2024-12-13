@@ -19,7 +19,7 @@
 					"buttontext": "<RichColor Color=\"0,1,1,1\">Welcome</>",
 					"title1": "",
 					"text1": "",
-					"imageurl": "https://i.postimg.cc/cZHwwtSW/Startbild-Island.png"
+					"imageurl": "https://i.postimg.cc/rmVNXxDX/Startbild-Center.png"
 				}
 			},
 			{
@@ -73,7 +73,7 @@
 					"buttontext": "<RichColor Color=\"0,1,1,1\">Settings</>",
 					"title1": "",
 					"text1": "",
-					"imageurl": "https://i.postimg.cc/9cj25TXH/Settings-Island.png"
+					"imageurl": "https://i.postimg.cc/YCQ6vbgB/Settings.png"
 				}
 			},
 			{
@@ -82,7 +82,7 @@
 					"buttontext": "<RichColor Color=\"1,0,0,1\">Rules</>",
 					"title1": "",
 					"text1": "",
-					"imageurl": "https://i.postimg.cc/nZjfXTCt/Rules-Island.png"
+					"imageurl": "https://i.postimg.cc/xTwGjWXP/Rules.png"
 				}
 			}
 		],
@@ -119,8 +119,8 @@
 			},
 			{
 				"link6": {
-					"text": "<RichColor Color=\"0,1,1,1\">Donate</>",
-					"url": "https://www.paypal.com/donate/?hosted_button_id=2ZHZGRD79GABQ"
+					"text": "<RichColor Color=\"0,1,1,1\">Website/Shop/Donate</>",
+					"url": "https://rtrark.org/"
 				}
 			}
 		]
