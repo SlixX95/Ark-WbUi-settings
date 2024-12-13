@@ -19,7 +19,7 @@
 					"buttontext": "<RichColor Color=\"0,1,1,1\">Welcome</>",
 					"title1": "",
 					"text1": "",
-					"imageurl": "https://i.postimg.cc/rmVNXxDX/Startbild-Center.png"
+					"imageurl": "https://i.postimg.cc/m2qfwxjM/Startbild-Center.png"
 				}
 			},
 			{
@@ -119,7 +119,7 @@
 			},
 			{
 				"link6": {
-					"text": "<RichColor Color=\"0,1,1,1\">Website/Shop/Donate</>",
+					"text": "<RichColor Color=\"0,1,1,1\">RTR Website</>",
 					"url": "https://rtrark.org/"
 				}
 			}
