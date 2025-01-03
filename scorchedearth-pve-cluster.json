@@ -49,8 +49,17 @@
 					"imageurl": "https://i.postimg.cc/yYcSNtYg/Gamble-Shop.png"
 				}
 			},
-			{
+						{
 				"tab5": {
+					"layout": 1,
+					"buttontext": "<RichColor Color=\"0,1,1,1\">BattlePass</>",
+					"title1": "",
+					"text1": "",
+					"imageurl": "https://i.postimg.cc/ZnJmLPpc/Pv-E-Battlepass.png"
+				}
+			},
+			{
+				"tab6": {
 					"layout": 1,
 					"buttontext": "<RichColor Color=\"0,1,1,1\">Commands</>",
 					"title1": "",
@@ -59,7 +68,7 @@
 				}
 			},
 			{
-				"tab6": {
+				"tab7": {
 					"layout": 1,
 					"buttontext": "<RichColor Color=\"0,1,1,1\">Events</>",
 					"title1": "",
@@ -68,7 +77,7 @@
 				}
 			},
 			{
-				"tab7": {
+				"tab8": {
 					"layout": 1,
 					"buttontext": "<RichColor Color=\"0,1,1,1\">Settings|Rules</>",
 					"title1": "",

@@ -34,6 +34,15 @@
 			{
 				"tab3": {
 					"layout": 1,
+					"buttontext": "<RichColor Color=\"0,1,1,1\">BattlePass</>",
+					"title1": "",
+					"text1": "",
+					"imageurl": "https://i.postimg.cc/nz4Z7Sjr/Pv-P-Battlepass.png"
+				}
+			},
+			{
+				"tab4": {
+					"layout": 1,
 					"buttontext": "<RichColor Color=\"0,1,1,1\">Settings|Rules</>",
 					"title1": "",
 					"text1": "",
