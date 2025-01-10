@@ -96,16 +96,16 @@
 			}
 		],
 		"links": [
-			{
+		{
 				"link1": {
-					"text": "<RichColor Color=\"1,0,0,1\">Trailer SE</>",
-					"url": "https://www.youtube.com/watch?v=IeSrIz8IUCE"
+					"text": "<RichColor Color=\"0,1,1,1\">RTR Website</>",
+					"url": "https://rtrark.org/"
 				}
 			},
 			{
 				"link2": {
-					"text": "<RichColor Color=\"0,1,0,1\">Discord</>",
-					"url": "https://discord.gg/TZPbvsVm2U"
+					"text": "<RichColor Color=\"1,0,0,1\">Trailer SE</>",
+					"url": "https://www.youtube.com/watch?v=IeSrIz8IUCE"
 				}
 			},
 			{
@@ -124,12 +124,6 @@
 				"link5": {
 					"text": "<RichColor Color=\"0,1,1,1\">Dododex</>",
 					"url": "https://www.dododex.com/"
-				}
-			},
-			{
-				"link6": {
-					"text": "<RichColor Color=\"0,1,1,1\">RTR Website</>",
-					"url": "https://rtrark.org/"
 				}
 			}
 		]
