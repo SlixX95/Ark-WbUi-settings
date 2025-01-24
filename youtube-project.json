@@ -95,20 +95,20 @@
 			},
 			{
 				"link2": {
-					"text": "<RichColor Color=\"1,0,0,1\">Trailer video</>",
+					"text": "<RichColor Color=\"1,0,0,1\">Trailer</>",
 					"url": "https://www.youtube.com/watch?v=jEGueapmDE4"
 				}
 			},
 			{
 				"link3": {
-					"text": "<RichColor Color=\"1,0,0,1\">Youtube[GER]</>",
+					"text": "<RichColor Color=\"1,0,0,1\">Tutorial[GER]</>",
 					"url": "https://www.youtube.com/watch?v=LL6k2JZ-tAU"
 				}
 			},
 			{
 				"link4": {
-					"text": "<RichColor Color=\"1,0,0,1\">Youtube[EN]</>",
-					"url": "https://www.youtube.com/@realdodofrodo/videos"
+					"text": "<RichColor Color=\"1,0,0,1\">Tutorial[EN]</>",
+					"url": "https://www.youtube.com/watch?v=JVLhxEAHAz8"
 				}
 			},
 			{
