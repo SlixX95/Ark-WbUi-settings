@@ -19,7 +19,7 @@
 					"buttontext": "<RichColor Color=\"0,1,1,1\">Welcome</>",
 					"title1": "",
 					"text1": "",
-					"imageurl": "https://i.postimg.cc/R07m9DG3/Startbild-Exe.png"
+					"imageurl": "https://i.postimg.cc/sx2FdxqD/Startbild-Astraeos.png"
 				}
 			},
 			{
@@ -37,7 +37,7 @@
 					"buttontext": "<RichColor Color=\"0,1,1,1\">Shop2</>",
 					"title1": "",
 					"text1": "",
-					"imageurl": "https://i.postimg.cc/zfGv7Vdy/Kits-PvP.png"
+					"imageurl": "https://i.postimg.cc/L5YnPddf/Kits-Sell-Shop-Pv-E.png"
 				}
 			},
 			{
@@ -49,13 +49,13 @@
 					"imageurl": "https://i.postimg.cc/yYcSNtYg/Gamble-Shop.png"
 				}
 			},
-			{
+				{
 				"tab5": {
 					"layout": 1,
 					"buttontext": "<RichColor Color=\"0,1,1,1\">BattlePass</>",
 					"title1": "",
 					"text1": "",
-					"imageurl": "https://i.postimg.cc/nz4Z7Sjr/Pv-P-Battlepass.png"
+					"imageurl": "https://i.postimg.cc/ZnJmLPpc/Pv-E-Battlepass.png"
 				}
 			},
 			{
@@ -79,24 +79,15 @@
 			{
 				"tab8": {
 					"layout": 1,
-					"buttontext": "<RichColor Color=\"0,1,1,1\">Settings</>",
+					"buttontext": "<RichColor Color=\"0,1,1,1\">Settings|Rules</>",
 					"title1": "",
 					"text1": "",
-					"imageurl": "https://i.postimg.cc/4x9DTrLt/Settings.png"
-				}
-			},
-			{
-				"tab9": {
-					"layout": 1,
-					"buttontext": "<RichColor Color=\"1,0,0,1\">Rules</>",
-					"title1": "",
-					"text1": "",
-					"imageurl": "https://i.postimg.cc/zfY9D06Q/Rules.png"
+					"imageurl": "https://i.postimg.cc/90g6WVHP/Pv-E-Settings-Rules.png"
 				}
 			}
 		],
 		"links": [
-		{
+			{
 				"link1": {
 					"text": "<RichColor Color=\"0,1,1,1\">RTR Website</>",
 					"url": "https://rtrark.org/"
@@ -105,7 +96,7 @@
 			{
 				"link2": {
 					"text": "<RichColor Color=\"1,0,0,1\">Trailer</>",
-					"url": "https://www.youtube.com/watch?v=jEGueapmDE4"
+					"url": "https://www.youtube.com/watch?v=NHinLwUdhxc"
 				}
 			},
 			{
