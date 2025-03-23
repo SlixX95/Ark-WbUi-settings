@@ -25,33 +25,6 @@
 			{
 				"tab2": {
 					"layout": 1,
-					"buttontext": "<RichColor Color=\"0,1,1,1\">Shop</>",
-					"title1": "",
-					"text1": "",
-					"imageurl": "https://i.postimg.cc/PqVxRTc2/Ressourcen-Shop.png"
-				}
-			},
-			{
-				"tab3": {
-					"layout": 1,
-					"buttontext": "<RichColor Color=\"0,1,1,1\">Shop2</>",
-					"title1": "",
-					"text1": "",
-					"imageurl": "https://i.postimg.cc/L5YnPddf/Kits-Sell-Shop-Pv-E.png"
-				}
-			},
-			{
-				"tab4": {
-					"layout": 1,
-					"buttontext": "<RichColor Color=\"0,1,1,1\">Shop3</>",
-					"title1": "",
-					"text1": "",
-					"imageurl": "https://i.postimg.cc/yYcSNtYg/Gamble-Shop.png"
-				}
-			},
-				{
-				"tab5": {
-					"layout": 1,
 					"buttontext": "<RichColor Color=\"0,1,1,1\">BattlePass</>",
 					"title1": "",
 					"text1": "",
@@ -59,7 +32,7 @@
 				}
 			},
 			{
-				"tab6": {
+				"tab3": {
 					"layout": 1,
 					"buttontext": "<RichColor Color=\"0,1,1,1\">Commands</>",
 					"title1": "",
@@ -68,7 +41,7 @@
 				}
 			},
 			{
-				"tab7": {
+				"tab4": {
 					"layout": 1,
 					"buttontext": "<RichColor Color=\"0,1,1,1\">Events</>",
 					"title1": "",
@@ -77,7 +50,7 @@
 				}
 			},
 			{
-				"tab8": {
+				"tab5": {
 					"layout": 1,
 					"buttontext": "<RichColor Color=\"0,1,1,1\">Settings|Rules</>",
 					"title1": "",
@@ -87,7 +60,7 @@
 			}
 		],
 		"links": [
-		{
+			{
 				"link1": {
 					"text": "<RichColor Color=\"0,1,1,1\">RTR Website</>",
 					"url": "https://rtrark.org/"

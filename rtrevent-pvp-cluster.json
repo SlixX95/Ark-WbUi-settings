@@ -25,15 +25,6 @@
 			{
 				"tab2": {
 					"layout": 1,
-					"buttontext": "<RichColor Color=\"0,1,1,1\">Shop</>",
-					"title1": "",
-					"text1": "",
-					"imageurl": "https://i.postimg.cc/hjhz0pDz/Shop-RTREvent.png"
-				}
-			},
-			{
-				"tab3": {
-					"layout": 1,
 					"buttontext": "<RichColor Color=\"0,1,1,1\">BattlePass</>",
 					"title1": "",
 					"text1": "",
@@ -41,7 +32,7 @@
 				}
 			},
 			{
-				"tab4": {
+				"tab3": {
 					"layout": 1,
 					"buttontext": "<RichColor Color=\"0,1,1,1\">Settings|Rules</>",
 					"title1": "",
