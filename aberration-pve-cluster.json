@@ -52,7 +52,16 @@
 			{
 				"tab5": {
 					"layout": 1,
-					"buttontext": "<RichColor Color=\"0,1,1,1\">Settings|Rules</>",
+					"buttontext": "<RichColor Color=\"0,1,1,1\">Settings</>",
+					"title1": "",
+					"text1": "",
+					"imageurl": "https://i.postimg.cc/NjbbBdDV/settings2.png"
+				}
+			},
+			{
+				"tab6": {
+					"layout": 1,
+					"buttontext": "<RichColor Color=\"1,0,0,1\">Rules</>",
 					"title1": "",
 					"text1": "",
 					"imageurl": "https://i.postimg.cc/htMMc2sZ/rules2.png"
