@@ -1,0 +1,119 @@
+{
+	"WBUI2": {
+		"settings": {
+			"OpenButton": 2,
+			"HideIcon": true,
+			"HideIconAfter": 60,
+			"IconURL": "",
+			"DisableIconText": true,
+			"IconPosition": 2,
+			"IconTextColor": 7,
+			"OpenOnStart": true,
+			"OpenOnStartOnlyNewPlayers": true,
+			"UpdateInterval": 6
+		},
+		"tabs": [
+			{
+				"tab1": {
+					"layout": 1,
+					"buttontext": "<RichColor Color=\"0,1,1,1\">Welcome</>",
+					"title1": "",
+					"text1": "",
+					"imageurl": "https://i.postimg.cc/rw0wPCsn/global-config-welcome-png.png"
+				}
+			},
+			{
+				"tab2": {
+					"layout": 1,
+					"buttontext": "<RichColor Color=\"0,1,1,1\">BattlePass</>",
+					"title1": "",
+					"text1": "",
+					"imageurl": "https://i.postimg.cc/XYRYSGBK/global-config-battlepass-png.png"
+				}
+			},
+			{
+				"tab3": {
+					"layout": 1,
+					"buttontext": "<RichColor Color=\"0,1,1,1\">Commands</>",
+					"title1": "",
+					"text1": "",
+					"imageurl": "https://i.postimg.cc/4xBqTzhr/startcommands-exact-extended.png"
+				}
+			},
+			{
+				"tab4": {
+					"layout": 1,
+					"buttontext": "<RichColor Color=\"0,1,1,1\">Events</>",
+					"title1": "",
+					"text1": "",
+					"imageurl": "https://i.postimg.cc/RZkZ56n5/global-config-events-png.png"
+				}
+			},
+			{
+				"tab5": {
+					"layout": 1,
+					"buttontext": "<RichColor Color=\"0,1,1,1\">Settings</>",
+					"title1": "",
+					"text1": "",
+					"imageurl": "https://i.postimg.cc/g2X2TqjK/global-config-settings-png.png"
+				}
+			},
+			{
+				"tab6": {
+					"layout": 1,
+					"buttontext": "<RichColor Color=\"1,0,0,1\">Rules</>",
+					"title1": "",
+					"text1": "",
+					"imageurl": "https://i.postimg.cc/T3z3ML5s/global-config-rules-png.png"
+				}
+			},
+			{
+				"tab7": {
+					"layout": 1,
+					"buttontext": "<RichColor Color=\"0,1,1,1\">Kalender</>",
+					"title1": "",
+					"text1": "",
+					"imageurl": "https://i.postimg.cc/Xv97VjwY/global-config-kalender-png.png"
+				}
+			}
+		],
+		"links": [
+			{
+				"link1": {
+					"text": "<RichColor Color=\"0,1,1,1\">RTR Website</>",
+					"url": "https://rtrark.org/"
+				}
+			},
+			{
+				"link2": {
+					"text": "<RichColor Color=\"1,0,0,1\">Trailer</>",
+					"url": "https://www.youtube.com/watch?v=NHinLwUdhxc"
+				}
+			},
+			{
+				"link3": {
+					"text": "<RichColor Color=\"1,0,0,1\">Tutorial[GER]</>",
+					"url": "https://www.youtube.com/watch?v=4cJ6dD7aQF8"
+				}
+			},
+			{
+				"link4": {
+					"text": "<RichColor Color=\"1,0,0,1\">Tutorial[EN]</>",
+					"url": "https://www.youtube.com/watch?v=JVLhxEAHAz8"
+				}
+			},
+			{
+				"link5": {
+					"text": "<RichColor Color=\"0,1,1,1\">Arkintel</>",
+					"url": "https://arkintel-cghwhbdzccgnbtdv.westeurope-01.azurewebsites.net/"
+				}
+			},
+			{
+				"link6": {
+					"text": "<RichColor Color=\"0,1,1,1\">Templates</>",
+					"url": "https://wikily.gg/de/ark-survival-ascended/building-templates/"
+				}
+			}
+		]
+	}
+}
