@@ -37,7 +37,16 @@
 					"buttontext": "<RichColor Color=\"0,1,1,1\">Commands</>",
 					"title1": "",
 					"text1": "",
-					"imageurl": "https://raw.githubusercontent.com/rtrark/Ark-WbUi-settings/main/assets/commands_design2_raptor_tribeconnect_exact_blackmarket.png"
+					"imageurl": "https://raw.githubusercontent.com/rtrark/Ark-WbUi-settings/main/assets/commands_design2_page1_general.png"
+				}
+			},
+			{
+				"tab8": {
+					"layout": 1,
+					"buttontext": "<RichColor Color=\"0,1,1,1\">Commands2</>",
+					"title1": "",
+					"text1": "",
+					"imageurl": "https://raw.githubusercontent.com/rtrark/Ark-WbUi-settings/main/assets/commands2_design2_rtr_plugins.png"
 				}
 			},
 			{
