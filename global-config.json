@@ -37,7 +37,7 @@
 					"buttontext": "<RichColor Color=\"0,1,1,1\">Commands</>",
 					"title1": "",
 					"text1": "",
-					"imageurl": "https://raw.githubusercontent.com/rtrark/Ark-WbUi-settings/refs/heads/main/assets/commands_design2_page1_general.png?v=seqtabs1"
+					"imageurl": "https://i.postimg.cc/g0MJkCrK/rtr-commands-design2-page1-general-png.png"
 				}
 			},
 			{
@@ -46,7 +46,7 @@
 					"buttontext": "<RichColor Color=\"0,1,1,1\">Commands2</>",
 					"title1": "",
 					"text1": "",
-					"imageurl": "https://raw.githubusercontent.com/rtrark/Ark-WbUi-settings/refs/heads/main/assets/commands2_design2_rtr_plugins.png?v=seqtabs1"
+					"imageurl": "https://i.postimg.cc/bJWw11QF/rtr-commands2-design2-rtr-plugins-png.png"
 				}
 			},
 			{
@@ -74,15 +74,6 @@
 					"title1": "",
 					"text1": "",
 					"imageurl": "https://i.postimg.cc/3wnPTzdL/global-config-v2-rules-png.png"
-				}
-			},
-			{
-				"tab8": {
-					"layout": 1,
-					"buttontext": "<RichColor Color=\"0,1,1,1\">Calender</>",
-					"title1": "",
-					"text1": "",
-					"imageurl": "https://raw.githubusercontent.com/rtrark/Ark-WbUi-settings/main/assets/calender_design2_nosquare_english_commands.png"
 				}
 			}
 		],
