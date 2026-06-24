@@ -75,6 +75,15 @@
 					"text1": "",
 					"imageurl": "https://i.postimg.cc/3wnPTzdL/global-config-v2-rules-png.png"
 				}
+			},
+			{
+				"tab8": {
+					"layout": 1,
+					"buttontext": "<RichColor Color=\"0,1,1,1\">Calender</>",
+					"title1": "",
+					"text1": "",
+					"imageurl": "https://raw.githubusercontent.com/rtrark/Ark-WbUi-settings/main/assets/calender_design2_nosquare_english_commands.png"
+				}
 			}
 		],
 		"links": [
