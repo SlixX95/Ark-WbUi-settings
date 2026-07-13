@@ -19,7 +19,7 @@
 					"buttontext": "<RichColor Color=\"0,1,1,1\">Welcome</>",
 					"title1": "",
 					"text1": "",
-					"imageurl": "https://i.postimg.cc/sXxbDKWv/global-config-v2-welcome-png.png"
+					"imageurl": "https://raw.githubusercontent.com/rtrark/Ark-WbUi-settings/main/assets/global_welcome_20260713.png"
 				}
 			},
 			{
@@ -28,7 +28,7 @@
 					"buttontext": "<RichColor Color=\"0,1,1,1\">BattlePass</>",
 					"title1": "",
 					"text1": "",
-					"imageurl": "https://i.postimg.cc/zf09r4Vs/global-config-v2-battlepass-png.png"
+					"imageurl": "https://raw.githubusercontent.com/rtrark/Ark-WbUi-settings/main/assets/global_battlepass_20260713.png"
 				}
 			},
 			{
@@ -37,7 +37,7 @@
 					"buttontext": "<RichColor Color=\"0,1,1,1\">Commands</>",
 					"title1": "",
 					"text1": "",
-					"imageurl": "https://i.postimg.cc/g0MJkCrK/rtr-commands-design2-page1-general-png.png"
+					"imageurl": "https://raw.githubusercontent.com/rtrark/Ark-WbUi-settings/main/assets/global_commands_20260713.png"
 				}
 			},
 			{
